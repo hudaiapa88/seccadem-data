@@ -1,0 +1,84 @@
+{
+  "country": "TR",
+  "city": "murgul",
+  "district": "murgul",
+  "parent_city": "artvin",
+  "source": "diyanet",
+  "method": "turkey",
+  "madhab": "shafi",
+  "year": 2026,
+  "month": 8,
+  "timezone": "Europe/Istanbul",
+  "adjustments": {
+    "sunrise": -7,
+    "dhuhr": 5,
+    "asr": 4,
+    "maghrib": 6,
+    "isha": -1
+  },
+  "days": [
+    {
+      "date": "2026-08-01",
+      "fajr": "03:16",
+      "sunrise": "05:02",
+      "dhuhr": "12:25",
+      "asr": "16:20",
+      "maghrib": "19:39",
+      "isha": "21:16"
+    },
+    {
+      "date": "2026-08-02",
+      "fajr": "03:18",
+      "sunrise": "05:03",
+      "dhuhr": "12:25",
+      "asr": "16:20",
+      "maghrib": "19:38",
+      "isha": "21:15"
+    },
+    {
+      "date": "2026-08-03",
+      "fajr": "03:19",
+      "sunrise": "05:04",
+      "dhuhr": "12:25",
+      "asr": "16:19",
+      "maghrib": "19:36",
+      "isha": "21:13"
+    },
+    {
+      "date": "2026-08-04",
+      "fajr": "03:21",
+      "sunrise": "05:05",
+      "dhuhr": "12:25",
+      "asr": "16:19",
+      "maghrib": "19:35",
+      "isha": "21:12"
+    },
+    {
+      "date": "2026-08-05",
+      "fajr": "03:23",
+      "sunrise": "05:06",
+      "dhuhr": "12:25",
+      "asr": "16:18",
+      "maghrib": "19:34",
+      "isha": "21:10"
+    },
+    {
+      "date": "2026-08-06",
+      "fajr": "03:24",
+      "sunrise": "05:07",
+      "dhuhr": "12:25",
+      "asr": "16:18",
+      "maghrib": "19:33",
+      "isha": "21:08"
+    },
+    {
+      "date": "2026-08-07",
+      "fajr": "03:26",
+      "sunrise": "05:08",
+      "dhuhr": "12:25",
+      "asr": "16:17",
+      "maghrib": "19:32",
+      "isha": "21:06"
+    }
+  ]
+}

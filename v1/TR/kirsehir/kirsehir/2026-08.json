@@ -1,0 +1,66 @@
+{
+  "country": "TR",
+  "city": "kirsehir",
+  "district": "kirsehir",
+  "parent_city": "kirsehir",
+  "source": "diyanet",
+  "method": "turkey",
+  "madhab": "shafi",
+  "year": 2026,
+  "month": 8,
+  "timezone": "Europe/Istanbul",
+  "adjustments": {
+    "sunrise": -7,
+    "dhuhr": 5,
+    "asr": 4,
+    "maghrib": 6,
+    "isha": -1
+  },
+  "days": [
+    {
+      "date": "2026-08-01",
+      "fajr": "03:57",
+      "sunrise": "05:37",
+      "dhuhr": "12:55",
+      "asr": "16:46",
+      "maghrib": "20:03",
+      "isha": "21:36"
+    },
+    {
+      "date": "2026-08-02",
+      "fajr": "03:58",
+      "sunrise": "05:37",
+      "dhuhr": "12:55",
+      "asr": "16:46",
+      "maghrib": "20:02",
+      "isha": "21:34"
+    },
+    {
+      "date": "2026-08-03",
+      "fajr": "04:00",
+      "sunrise": "05:38",
+      "dhuhr": "12:55",
+      "asr": "16:46",
+      "maghrib": "20:01",
+      "isha": "21:33"
+    },
+    {
+      "date": "2026-08-04",
+      "fajr": "04:01",
+      "sunrise": "05:39",
+      "dhuhr": "12:55",
+      "asr": "16:45",
+      "maghrib": "20:00",
+      "isha": "21:31"
+    },
+    {
+      "date": "2026-08-05",
+      "fajr": "04:03",
+      "sunrise": "05:40",
+      "dhuhr": "12:54",
+      "asr": "16:45",
+      "maghrib": "19:59",
+      "isha": "21:30"
+    }
+  ]
+}

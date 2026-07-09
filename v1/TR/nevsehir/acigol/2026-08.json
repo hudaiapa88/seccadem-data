@@ -1,0 +1,84 @@
+{
+  "country": "TR",
+  "city": "acigol",
+  "district": "acigol",
+  "parent_city": "nevsehir",
+  "source": "diyanet",
+  "method": "turkey",
+  "madhab": "shafi",
+  "year": 2026,
+  "month": 8,
+  "timezone": "Europe/Istanbul",
+  "adjustments": {
+    "sunrise": -7,
+    "dhuhr": 5,
+    "asr": 4,
+    "maghrib": 6,
+    "isha": -1
+  },
+  "days": [
+    {
+      "date": "2026-08-01",
+      "fajr": "03:58",
+      "sunrise": "05:37",
+      "dhuhr": "12:53",
+      "asr": "16:44",
+      "maghrib": "20:00",
+      "isha": "21:31"
+    },
+    {
+      "date": "2026-08-02",
+      "fajr": "04:00",
+      "sunrise": "05:37",
+      "dhuhr": "12:53",
+      "asr": "16:44",
+      "maghrib": "19:59",
+      "isha": "21:30"
+    },
+    {
+      "date": "2026-08-03",
+      "fajr": "04:01",
+      "sunrise": "05:38",
+      "dhuhr": "12:53",
+      "asr": "16:43",
+      "maghrib": "19:58",
+      "isha": "21:29"
+    },
+    {
+      "date": "2026-08-04",
+      "fajr": "04:02",
+      "sunrise": "05:39",
+      "dhuhr": "12:53",
+      "asr": "16:43",
+      "maghrib": "19:57",
+      "isha": "21:27"
+    },
+    {
+      "date": "2026-08-05",
+      "fajr": "04:04",
+      "sunrise": "05:40",
+      "dhuhr": "12:53",
+      "asr": "16:43",
+      "maghrib": "19:56",
+      "isha": "21:26"
+    },
+    {
+      "date": "2026-08-06",
+      "fajr": "04:05",
+      "sunrise": "05:41",
+      "dhuhr": "12:53",
+      "asr": "16:42",
+      "maghrib": "19:55",
+      "isha": "21:24"
+    },
+    {
+      "date": "2026-08-07",
+      "fajr": "04:06",
+      "sunrise": "05:42",
+      "dhuhr": "12:53",
+      "asr": "16:42",
+      "maghrib": "19:54",
+      "isha": "21:23"
+    }
+  ]
+}

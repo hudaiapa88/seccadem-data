@@ -1,0 +1,66 @@
+{
+  "country": "TR",
+  "city": "yaglidere",
+  "district": "yaglidere",
+  "parent_city": "giresun",
+  "source": "diyanet",
+  "method": "turkey",
+  "madhab": "shafi",
+  "year": 2026,
+  "month": 8,
+  "timezone": "Europe/Istanbul",
+  "adjustments": {
+    "sunrise": -7,
+    "dhuhr": 5,
+    "asr": 4,
+    "maghrib": 6,
+    "isha": -1
+  },
+  "days": [
+    {
+      "date": "2026-08-01",
+      "fajr": "03:30",
+      "sunrise": "05:15",
+      "dhuhr": "12:37",
+      "asr": "16:31",
+      "maghrib": "19:49",
+      "isha": "21:26"
+    },
+    {
+      "date": "2026-08-02",
+      "fajr": "03:32",
+      "sunrise": "05:16",
+      "dhuhr": "12:37",
+      "asr": "16:31",
+      "maghrib": "19:48",
+      "isha": "21:24"
+    },
+    {
+      "date": "2026-08-03",
+      "fajr": "03:33",
+      "sunrise": "05:16",
+      "dhuhr": "12:37",
+      "asr": "16:30",
+      "maghrib": "19:47",
+      "isha": "21:23"
+    },
+    {
+      "date": "2026-08-04",
+      "fajr": "03:35",
+      "sunrise": "05:17",
+      "dhuhr": "12:37",
+      "asr": "16:30",
+      "maghrib": "19:46",
+      "isha": "21:21"
+    },
+    {
+      "date": "2026-08-05",
+      "fajr": "03:36",
+      "sunrise": "05:18",
+      "dhuhr": "12:37",
+      "asr": "16:29",
+      "maghrib": "19:45",
+      "isha": "21:20"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "country": "TR",
+  "city": "cerkes",
+  "district": "cerkes",
+  "parent_city": "cankiri",
+  "source": "diyanet",
+  "method": "turkey",
+  "madhab": "shafi",
+  "year": 2026,
+  "month": 8,
+  "timezone": "Europe/Istanbul",
+  "adjustments": {
+    "sunrise": -7,
+    "dhuhr": 5,
+    "asr": 4,
+    "maghrib": 6,
+    "isha": -1
+  },
+  "days": [
+    {
+      "date": "2026-08-01",
+      "fajr": "03:54",
+      "sunrise": "05:38",
+      "dhuhr": "13:00",
+      "asr": "16:54",
+      "maghrib": "20:12",
+      "isha": "21:49"
+    },
+    {
+      "date": "2026-08-02",
+      "fajr": "03:55",
+      "sunrise": "05:39",
+      "dhuhr": "13:00",
+      "asr": "16:54",
+      "maghrib": "20:11",
+      "isha": "21:47"
+    },
+    {
+      "date": "2026-08-03",
+      "fajr": "03:57",
+      "sunrise": "05:40",
+      "dhuhr": "13:00",
+      "asr": "16:53",
+      "maghrib": "20:10",
+      "isha": "21:46"
+    }
+  ]
+}

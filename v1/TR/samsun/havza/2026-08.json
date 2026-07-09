@@ -1,0 +1,66 @@
+{
+  "country": "TR",
+  "city": "havza",
+  "district": "havza",
+  "parent_city": "samsun",
+  "source": "diyanet",
+  "method": "turkey",
+  "madhab": "shafi",
+  "year": 2026,
+  "month": 8,
+  "timezone": "Europe/Istanbul",
+  "adjustments": {
+    "sunrise": -7,
+    "dhuhr": 5,
+    "asr": 4,
+    "maghrib": 6,
+    "isha": -1
+  },
+  "days": [
+    {
+      "date": "2026-08-01",
+      "fajr": "03:42",
+      "sunrise": "05:26",
+      "dhuhr": "12:49",
+      "asr": "16:43",
+      "maghrib": "20:01",
+      "isha": "21:38"
+    },
+    {
+      "date": "2026-08-02",
+      "fajr": "03:43",
+      "sunrise": "05:27",
+      "dhuhr": "12:49",
+      "asr": "16:43",
+      "maghrib": "20:00",
+      "isha": "21:37"
+    },
+    {
+      "date": "2026-08-03",
+      "fajr": "03:45",
+      "sunrise": "05:28",
+      "dhuhr": "12:49",
+      "asr": "16:42",
+      "maghrib": "19:59",
+      "isha": "21:35"
+    },
+    {
+      "date": "2026-08-04",
+      "fajr": "03:46",
+      "sunrise": "05:29",
+      "dhuhr": "12:49",
+      "asr": "16:42",
+      "maghrib": "19:58",
+      "isha": "21:34"
+    },
+    {
+      "date": "2026-08-05",
+      "fajr": "03:48",
+      "sunrise": "05:30",
+      "dhuhr": "12:48",
+      "asr": "16:41",
+      "maghrib": "19:57",
+      "isha": "21:32"
+    }
+  ]
+}

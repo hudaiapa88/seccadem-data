@@ -1,0 +1,75 @@
+{
+  "country": "TR",
+  "city": "karakoyunlu",
+  "district": "karakoyunlu",
+  "parent_city": "igdir",
+  "source": "diyanet",
+  "method": "turkey",
+  "madhab": "shafi",
+  "year": 2026,
+  "month": 8,
+  "timezone": "Europe/Istanbul",
+  "adjustments": {
+    "sunrise": -7,
+    "dhuhr": 5,
+    "asr": 4,
+    "maghrib": 6,
+    "isha": -1
+  },
+  "days": [
+    {
+      "date": "2026-08-01",
+      "fajr": "03:13",
+      "sunrise": "04:55",
+      "dhuhr": "12:15",
+      "asr": "16:07",
+      "maghrib": "19:25",
+      "isha": "20:59"
+    },
+    {
+      "date": "2026-08-02",
+      "fajr": "03:14",
+      "sunrise": "04:55",
+      "dhuhr": "12:15",
+      "asr": "16:07",
+      "maghrib": "19:24",
+      "isha": "20:58"
+    },
+    {
+      "date": "2026-08-03",
+      "fajr": "03:16",
+      "sunrise": "04:56",
+      "dhuhr": "12:15",
+      "asr": "16:07",
+      "maghrib": "19:23",
+      "isha": "20:56"
+    },
+    {
+      "date": "2026-08-04",
+      "fajr": "03:17",
+      "sunrise": "04:57",
+      "dhuhr": "12:14",
+      "asr": "16:06",
+      "maghrib": "19:22",
+      "isha": "20:55"
+    },
+    {
+      "date": "2026-08-05",
+      "fajr": "03:19",
+      "sunrise": "04:58",
+      "dhuhr": "12:14",
+      "asr": "16:06",
+      "maghrib": "19:21",
+      "isha": "20:53"
+    },
+    {
+      "date": "2026-08-06",
+      "fajr": "03:20",
+      "sunrise": "04:59",
+      "dhuhr": "12:14",
+      "asr": "16:06",
+      "maghrib": "19:19",
+      "isha": "20:52"
+    }
+  ]
+}

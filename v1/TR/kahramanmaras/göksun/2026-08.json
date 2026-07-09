@@ -1,0 +1,57 @@
+{
+  "country": "TR",
+  "city": "göksun",
+  "district": "göksun",
+  "parent_city": "kahramanmaras",
+  "source": "diyanet",
+  "method": "turkey",
+  "madhab": "shafi",
+  "year": 2026,
+  "month": 8,
+  "timezone": "Europe/Istanbul",
+  "adjustments": {
+    "sunrise": -7,
+    "dhuhr": 5,
+    "asr": 4,
+    "maghrib": 6,
+    "isha": -1
+  },
+  "days": [
+    {
+      "date": "2026-08-01",
+      "fajr": "03:53",
+      "sunrise": "05:30",
+      "dhuhr": "12:45",
+      "asr": "16:35",
+      "maghrib": "19:51",
+      "isha": "21:21"
+    },
+    {
+      "date": "2026-08-02",
+      "fajr": "03:54",
+      "sunrise": "05:31",
+      "dhuhr": "12:45",
+      "asr": "16:35",
+      "maghrib": "19:50",
+      "isha": "21:20"
+    },
+    {
+      "date": "2026-08-03",
+      "fajr": "03:56",
+      "sunrise": "05:32",
+      "dhuhr": "12:45",
+      "asr": "16:35",
+      "maghrib": "19:49",
+      "isha": "21:18"
+    },
+    {
+      "date": "2026-08-04",
+      "fajr": "03:57",
+      "sunrise": "05:32",
+      "dhuhr": "12:45",
+      "asr": "16:34",
+      "maghrib": "19:48",
+      "isha": "21:17"
+    }
+  ]
+}

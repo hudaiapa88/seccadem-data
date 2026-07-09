@@ -1,0 +1,48 @@
+{
+  "country": "TR",
+  "city": "haymana",
+  "district": "haymana",
+  "parent_city": "ankara",
+  "source": "diyanet",
+  "method": "turkey",
+  "madhab": "shafi",
+  "year": 2026,
+  "month": 8,
+  "timezone": "Europe/Istanbul",
+  "adjustments": {
+    "sunrise": -7,
+    "dhuhr": 5,
+    "asr": 4,
+    "maghrib": 6,
+    "isha": -1
+  },
+  "days": [
+    {
+      "date": "2026-08-01",
+      "fajr": "04:02",
+      "sunrise": "05:43",
+      "dhuhr": "13:01",
+      "asr": "16:53",
+      "maghrib": "20:10",
+      "isha": "21:44"
+    },
+    {
+      "date": "2026-08-02",
+      "fajr": "04:04",
+      "sunrise": "05:43",
+      "dhuhr": "13:01",
+      "asr": "16:53",
+      "maghrib": "20:09",
+      "isha": "21:42"
+    },
+    {
+      "date": "2026-08-03",
+      "fajr": "04:05",
+      "sunrise": "05:44",
+      "dhuhr": "13:01",
+      "asr": "16:53",
+      "maghrib": "20:08",
+      "isha": "21:41"
+    }
+  ]
+}

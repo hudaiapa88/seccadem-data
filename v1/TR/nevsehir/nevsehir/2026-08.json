@@ -1,0 +1,48 @@
+{
+  "country": "TR",
+  "city": "nevsehir",
+  "district": "nevsehir",
+  "parent_city": "nevsehir",
+  "source": "diyanet",
+  "method": "turkey",
+  "madhab": "shafi",
+  "year": 2026,
+  "month": 8,
+  "timezone": "Europe/Istanbul",
+  "adjustments": {
+    "sunrise": -7,
+    "dhuhr": 5,
+    "asr": 4,
+    "maghrib": 6,
+    "isha": -1
+  },
+  "days": [
+    {
+      "date": "2026-08-01",
+      "fajr": "03:57",
+      "sunrise": "05:36",
+      "dhuhr": "12:53",
+      "asr": "16:43",
+      "maghrib": "20:00",
+      "isha": "21:31"
+    },
+    {
+      "date": "2026-08-02",
+      "fajr": "03:59",
+      "sunrise": "05:36",
+      "dhuhr": "12:52",
+      "asr": "16:43",
+      "maghrib": "19:59",
+      "isha": "21:30"
+    },
+    {
+      "date": "2026-08-03",
+      "fajr": "04:00",
+      "sunrise": "05:37",
+      "dhuhr": "12:52",
+      "asr": "16:43",
+      "maghrib": "19:58",
+      "isha": "21:28"
+    }
+  ]
+}

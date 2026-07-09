@@ -1,0 +1,48 @@
+{
+  "country": "TR",
+  "city": "kiziltepe",
+  "district": "kiziltepe",
+  "parent_city": "mardin",
+  "source": "diyanet",
+  "method": "turkey",
+  "madhab": "shafi",
+  "year": 2026,
+  "month": 8,
+  "timezone": "Europe/Istanbul",
+  "adjustments": {
+    "sunrise": -7,
+    "dhuhr": 5,
+    "asr": 4,
+    "maghrib": 6,
+    "isha": -1
+  },
+  "days": [
+    {
+      "date": "2026-08-01",
+      "fajr": "03:40",
+      "sunrise": "05:15",
+      "dhuhr": "12:29",
+      "asr": "16:17",
+      "maghrib": "19:33",
+      "isha": "21:01"
+    },
+    {
+      "date": "2026-08-02",
+      "fajr": "03:42",
+      "sunrise": "05:16",
+      "dhuhr": "12:29",
+      "asr": "16:17",
+      "maghrib": "19:32",
+      "isha": "21:00"
+    },
+    {
+      "date": "2026-08-03",
+      "fajr": "03:43",
+      "sunrise": "05:17",
+      "dhuhr": "12:29",
+      "asr": "16:17",
+      "maghrib": "19:31",
+      "isha": "20:59"
+    }
+  ]
+}

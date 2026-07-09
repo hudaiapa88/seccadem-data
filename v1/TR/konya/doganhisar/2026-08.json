@@ -1,0 +1,84 @@
+{
+  "country": "TR",
+  "city": "doganhisar",
+  "district": "doganhisar",
+  "parent_city": "konya",
+  "source": "diyanet",
+  "method": "turkey",
+  "madhab": "shafi",
+  "year": 2026,
+  "month": 8,
+  "timezone": "Europe/Istanbul",
+  "adjustments": {
+    "sunrise": -7,
+    "dhuhr": 5,
+    "asr": 4,
+    "maghrib": 6,
+    "isha": -1
+  },
+  "days": [
+    {
+      "date": "2026-08-01",
+      "fajr": "04:12",
+      "sunrise": "05:49",
+      "dhuhr": "13:05",
+      "asr": "16:55",
+      "maghrib": "20:11",
+      "isha": "21:41"
+    },
+    {
+      "date": "2026-08-02",
+      "fajr": "04:13",
+      "sunrise": "05:50",
+      "dhuhr": "13:05",
+      "asr": "16:54",
+      "maghrib": "20:10",
+      "isha": "21:40"
+    },
+    {
+      "date": "2026-08-03",
+      "fajr": "04:14",
+      "sunrise": "05:50",
+      "dhuhr": "13:05",
+      "asr": "16:54",
+      "maghrib": "20:09",
+      "isha": "21:38"
+    },
+    {
+      "date": "2026-08-04",
+      "fajr": "04:16",
+      "sunrise": "05:51",
+      "dhuhr": "13:04",
+      "asr": "16:54",
+      "maghrib": "20:08",
+      "isha": "21:37"
+    },
+    {
+      "date": "2026-08-05",
+      "fajr": "04:17",
+      "sunrise": "05:52",
+      "dhuhr": "13:04",
+      "asr": "16:53",
+      "maghrib": "20:07",
+      "isha": "21:35"
+    },
+    {
+      "date": "2026-08-06",
+      "fajr": "04:18",
+      "sunrise": "05:53",
+      "dhuhr": "13:04",
+      "asr": "16:53",
+      "maghrib": "20:06",
+      "isha": "21:34"
+    },
+    {
+      "date": "2026-08-07",
+      "fajr": "04:19",
+      "sunrise": "05:54",
+      "dhuhr": "13:04",
+      "asr": "16:53",
+      "maghrib": "20:04",
+      "isha": "21:32"
+    }
+  ]
+}

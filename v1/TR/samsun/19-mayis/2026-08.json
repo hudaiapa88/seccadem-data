@@ -1,0 +1,57 @@
+{
+  "country": "TR",
+  "city": "19-mayis",
+  "district": "19-mayis",
+  "parent_city": "samsun",
+  "source": "diyanet",
+  "method": "turkey",
+  "madhab": "shafi",
+  "year": 2026,
+  "month": 8,
+  "timezone": "Europe/Istanbul",
+  "adjustments": {
+    "sunrise": -7,
+    "dhuhr": 5,
+    "asr": 4,
+    "maghrib": 6,
+    "isha": -1
+  },
+  "days": [
+    {
+      "date": "2026-08-01",
+      "fajr": "03:37",
+      "sunrise": "05:23",
+      "dhuhr": "12:47",
+      "asr": "16:42",
+      "maghrib": "20:01",
+      "isha": "21:39"
+    },
+    {
+      "date": "2026-08-02",
+      "fajr": "03:39",
+      "sunrise": "05:24",
+      "dhuhr": "12:47",
+      "asr": "16:42",
+      "maghrib": "20:00",
+      "isha": "21:38"
+    },
+    {
+      "date": "2026-08-03",
+      "fajr": "03:40",
+      "sunrise": "05:25",
+      "dhuhr": "12:47",
+      "asr": "16:41",
+      "maghrib": "19:59",
+      "isha": "21:36"
+    },
+    {
+      "date": "2026-08-04",
+      "fajr": "03:42",
+      "sunrise": "05:26",
+      "dhuhr": "12:47",
+      "asr": "16:41",
+      "maghrib": "19:58",
+      "isha": "21:35"
+    }
+  ]
+}

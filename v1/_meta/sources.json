@@ -1,0 +1,25 @@
+{
+  "last_updated": "2026-07-10T00:00:00Z",
+  "sources": {
+    "diyanet": {
+      "name": "Diyanet (ezanvakti.emushaf.net)",
+      "countries": ["TR", "CY"],
+      "url": "https://ezanvakti.emushaf.net"
+    },
+    "aladhan": {
+      "name": "Aladhan API",
+      "countries": ["SA", "EG", "SD", "LY", "SY", "IQ", "JO", "PS", "LB", "YE", "AE", "BH", "KW", "QA", "OM", "DZ", "TN", "MA", "AF", "PK", "IN", "BD", "IR", "SG", "BN", "US", "CA", "GB", "FR", "DE", "NL", "BE", "AT", "CH", "ES", "RU", "KZ", "UZ", "KG", "TJ", "TM", "AZ", "BA", "AL", "MK", "XK", "NG", "ZA", "GH", "KE", "TZ", "SN", "ML", "BF", "CI", "NE", "TD", "DJ", "KM", "MR", "SO", "NP", "MU"],
+      "url": "https://api.aladhan.com/v1"
+    },
+    "jakim": {
+      "name": "JAKIM (e-solat.gov.my)",
+      "countries": ["MY"],
+      "url": "https://www.e-solat.gov.my/"
+    },
+    "kemenag": {
+      "name": "Kemenag (api.myquran.com)",
+      "countries": ["ID"],
+      "url": "https://api.myquran.com/v2/sholat"
+    }
+  }
+}

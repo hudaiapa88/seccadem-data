@@ -1,0 +1,75 @@
+{
+  "country": "TR",
+  "city": "kure",
+  "district": "kure",
+  "parent_city": "kastamonu",
+  "source": "diyanet",
+  "method": "turkey",
+  "madhab": "shafi",
+  "year": 2026,
+  "month": 8,
+  "timezone": "Europe/Istanbul",
+  "adjustments": {
+    "sunrise": -7,
+    "dhuhr": 5,
+    "asr": 4,
+    "maghrib": 6,
+    "isha": -1
+  },
+  "days": [
+    {
+      "date": "2026-08-01",
+      "fajr": "03:45",
+      "sunrise": "05:32",
+      "dhuhr": "12:57",
+      "asr": "16:52",
+      "maghrib": "20:11",
+      "isha": "21:51"
+    },
+    {
+      "date": "2026-08-02",
+      "fajr": "03:46",
+      "sunrise": "05:33",
+      "dhuhr": "12:56",
+      "asr": "16:52",
+      "maghrib": "20:10",
+      "isha": "21:49"
+    },
+    {
+      "date": "2026-08-03",
+      "fajr": "03:48",
+      "sunrise": "05:34",
+      "dhuhr": "12:56",
+      "asr": "16:51",
+      "maghrib": "20:09",
+      "isha": "21:47"
+    },
+    {
+      "date": "2026-08-04",
+      "fajr": "03:50",
+      "sunrise": "05:35",
+      "dhuhr": "12:56",
+      "asr": "16:51",
+      "maghrib": "20:08",
+      "isha": "21:46"
+    },
+    {
+      "date": "2026-08-05",
+      "fajr": "03:51",
+      "sunrise": "05:36",
+      "dhuhr": "12:56",
+      "asr": "16:50",
+      "maghrib": "20:07",
+      "isha": "21:44"
+    },
+    {
+      "date": "2026-08-06",
+      "fajr": "03:53",
+      "sunrise": "05:37",
+      "dhuhr": "12:56",
+      "asr": "16:50",
+      "maghrib": "20:05",
+      "isha": "21:42"
+    }
+  ]
+}

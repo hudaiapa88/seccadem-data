@@ -1,0 +1,84 @@
+{
+  "country": "TR",
+  "city": "buharkent",
+  "district": "buharkent",
+  "parent_city": "aydin",
+  "source": "diyanet",
+  "method": "turkey",
+  "madhab": "shafi",
+  "year": 2026,
+  "month": 8,
+  "timezone": "Europe/Istanbul",
+  "adjustments": {
+    "sunrise": -7,
+    "dhuhr": 5,
+    "asr": 4,
+    "maghrib": 6,
+    "isha": -1
+  },
+  "days": [
+    {
+      "date": "2026-08-01",
+      "fajr": "04:24",
+      "sunrise": "06:01",
+      "dhuhr": "13:16",
+      "asr": "17:06",
+      "maghrib": "20:22",
+      "isha": "21:52"
+    },
+    {
+      "date": "2026-08-02",
+      "fajr": "04:25",
+      "sunrise": "06:02",
+      "dhuhr": "13:16",
+      "asr": "17:06",
+      "maghrib": "20:21",
+      "isha": "21:51"
+    },
+    {
+      "date": "2026-08-03",
+      "fajr": "04:27",
+      "sunrise": "06:03",
+      "dhuhr": "13:16",
+      "asr": "17:05",
+      "maghrib": "20:20",
+      "isha": "21:49"
+    },
+    {
+      "date": "2026-08-04",
+      "fajr": "04:28",
+      "sunrise": "06:03",
+      "dhuhr": "13:16",
+      "asr": "17:05",
+      "maghrib": "20:19",
+      "isha": "21:48"
+    },
+    {
+      "date": "2026-08-05",
+      "fajr": "04:29",
+      "sunrise": "06:04",
+      "dhuhr": "13:16",
+      "asr": "17:05",
+      "maghrib": "20:18",
+      "isha": "21:46"
+    },
+    {
+      "date": "2026-08-06",
+      "fajr": "04:31",
+      "sunrise": "06:05",
+      "dhuhr": "13:16",
+      "asr": "17:04",
+      "maghrib": "20:17",
+      "isha": "21:45"
+    },
+    {
+      "date": "2026-08-07",
+      "fajr": "04:32",
+      "sunrise": "06:06",
+      "dhuhr": "13:16",
+      "asr": "17:04",
+      "maghrib": "20:16",
+      "isha": "21:43"
+    }
+  ]
+}

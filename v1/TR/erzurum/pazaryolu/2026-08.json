@@ -1,0 +1,66 @@
+{
+  "country": "TR",
+  "city": "pazaryolu",
+  "district": "pazaryolu",
+  "parent_city": "erzurum",
+  "source": "diyanet",
+  "method": "turkey",
+  "madhab": "shafi",
+  "year": 2026,
+  "month": 8,
+  "timezone": "Europe/Istanbul",
+  "adjustments": {
+    "sunrise": -7,
+    "dhuhr": 5,
+    "asr": 4,
+    "maghrib": 6,
+    "isha": -1
+  },
+  "days": [
+    {
+      "date": "2026-08-01",
+      "fajr": "03:24",
+      "sunrise": "05:07",
+      "dhuhr": "12:28",
+      "asr": "16:22",
+      "maghrib": "19:40",
+      "isha": "21:15"
+    },
+    {
+      "date": "2026-08-02",
+      "fajr": "03:26",
+      "sunrise": "05:08",
+      "dhuhr": "12:28",
+      "asr": "16:21",
+      "maghrib": "19:39",
+      "isha": "21:14"
+    },
+    {
+      "date": "2026-08-03",
+      "fajr": "03:27",
+      "sunrise": "05:09",
+      "dhuhr": "12:28",
+      "asr": "16:21",
+      "maghrib": "19:37",
+      "isha": "21:12"
+    },
+    {
+      "date": "2026-08-04",
+      "fajr": "03:29",
+      "sunrise": "05:10",
+      "dhuhr": "12:28",
+      "asr": "16:21",
+      "maghrib": "19:36",
+      "isha": "21:10"
+    },
+    {
+      "date": "2026-08-05",
+      "fajr": "03:30",
+      "sunrise": "05:11",
+      "dhuhr": "12:28",
+      "asr": "16:20",
+      "maghrib": "19:35",
+      "isha": "21:09"
+    }
+  ]
+}

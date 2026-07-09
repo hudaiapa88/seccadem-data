@@ -1,0 +1,57 @@
+{
+  "country": "TR",
+  "city": "basyayla",
+  "district": "basyayla",
+  "parent_city": "karaman",
+  "source": "diyanet",
+  "method": "turkey",
+  "madhab": "shafi",
+  "year": 2026,
+  "month": 8,
+  "timezone": "Europe/Istanbul",
+  "adjustments": {
+    "sunrise": -7,
+    "dhuhr": 5,
+    "asr": 4,
+    "maghrib": 6,
+    "isha": -1
+  },
+  "days": [
+    {
+      "date": "2026-08-01",
+      "fajr": "04:14",
+      "sunrise": "05:48",
+      "dhuhr": "13:01",
+      "asr": "16:48",
+      "maghrib": "20:04",
+      "isha": "21:31"
+    },
+    {
+      "date": "2026-08-02",
+      "fajr": "04:15",
+      "sunrise": "05:49",
+      "dhuhr": "13:01",
+      "asr": "16:48",
+      "maghrib": "20:03",
+      "isha": "21:30"
+    },
+    {
+      "date": "2026-08-03",
+      "fajr": "04:16",
+      "sunrise": "05:49",
+      "dhuhr": "13:01",
+      "asr": "16:48",
+      "maghrib": "20:02",
+      "isha": "21:29"
+    },
+    {
+      "date": "2026-08-04",
+      "fajr": "04:17",
+      "sunrise": "05:50",
+      "dhuhr": "13:00",
+      "asr": "16:48",
+      "maghrib": "20:01",
+      "isha": "21:27"
+    }
+  ]
+}

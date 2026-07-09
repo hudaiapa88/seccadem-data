@@ -1,0 +1,93 @@
+{
+  "country": "TR",
+  "city": "polateli̇",
+  "district": "polateli̇",
+  "parent_city": "kilis",
+  "source": "diyanet",
+  "method": "turkey",
+  "madhab": "shafi",
+  "year": 2026,
+  "month": 8,
+  "timezone": "Europe/Istanbul",
+  "adjustments": {
+    "sunrise": -7,
+    "dhuhr": 5,
+    "asr": 4,
+    "maghrib": 6,
+    "isha": -1
+  },
+  "days": [
+    {
+      "date": "2026-08-01",
+      "fajr": "03:56",
+      "sunrise": "05:30",
+      "dhuhr": "12:43",
+      "asr": "16:31",
+      "maghrib": "19:46",
+      "isha": "21:14"
+    },
+    {
+      "date": "2026-08-02",
+      "fajr": "03:57",
+      "sunrise": "05:31",
+      "dhuhr": "12:43",
+      "asr": "16:30",
+      "maghrib": "19:45",
+      "isha": "21:12"
+    },
+    {
+      "date": "2026-08-03",
+      "fajr": "03:58",
+      "sunrise": "05:31",
+      "dhuhr": "12:43",
+      "asr": "16:30",
+      "maghrib": "19:44",
+      "isha": "21:11"
+    },
+    {
+      "date": "2026-08-04",
+      "fajr": "03:59",
+      "sunrise": "05:32",
+      "dhuhr": "12:43",
+      "asr": "16:30",
+      "maghrib": "19:43",
+      "isha": "21:10"
+    },
+    {
+      "date": "2026-08-05",
+      "fajr": "04:00",
+      "sunrise": "05:33",
+      "dhuhr": "12:43",
+      "asr": "16:30",
+      "maghrib": "19:42",
+      "isha": "21:08"
+    },
+    {
+      "date": "2026-08-06",
+      "fajr": "04:02",
+      "sunrise": "05:34",
+      "dhuhr": "12:42",
+      "asr": "16:29",
+      "maghrib": "19:41",
+      "isha": "21:07"
+    },
+    {
+      "date": "2026-08-07",
+      "fajr": "04:03",
+      "sunrise": "05:35",
+      "dhuhr": "12:42",
+      "asr": "16:29",
+      "maghrib": "19:40",
+      "isha": "21:06"
+    },
+    {
+      "date": "2026-08-08",
+      "fajr": "04:04",
+      "sunrise": "05:35",
+      "dhuhr": "12:42",
+      "asr": "16:29",
+      "maghrib": "19:39",
+      "isha": "21:04"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "country": "TR",
+  "city": "hakkari",
+  "district": "hakkari",
+  "parent_city": "hakkari",
+  "source": "diyanet",
+  "method": "turkey",
+  "madhab": "shafi",
+  "year": 2026,
+  "month": 8,
+  "timezone": "Europe/Istanbul",
+  "adjustments": {
+    "sunrise": -7,
+    "dhuhr": 5,
+    "asr": 4,
+    "maghrib": 6,
+    "isha": -1
+  },
+  "days": [
+    {
+      "date": "2026-08-01",
+      "fajr": "03:26",
+      "sunrise": "05:02",
+      "dhuhr": "12:16",
+      "asr": "16:05",
+      "maghrib": "19:21",
+      "isha": "20:50"
+    },
+    {
+      "date": "2026-08-02",
+      "fajr": "03:27",
+      "sunrise": "05:03",
+      "dhuhr": "12:16",
+      "asr": "16:05",
+      "maghrib": "19:20",
+      "isha": "20:49"
+    },
+    {
+      "date": "2026-08-03",
+      "fajr": "03:29",
+      "sunrise": "05:03",
+      "dhuhr": "12:16",
+      "asr": "16:05",
+      "maghrib": "19:19",
+      "isha": "20:48"
+    }
+  ]
+}

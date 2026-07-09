@@ -1,0 +1,93 @@
+{
+  "country": "TR",
+  "city": "dumlupinar",
+  "district": "dumlupinar",
+  "parent_city": "kutahya",
+  "source": "diyanet",
+  "method": "turkey",
+  "madhab": "shafi",
+  "year": 2026,
+  "month": 8,
+  "timezone": "Europe/Istanbul",
+  "adjustments": {
+    "sunrise": -7,
+    "dhuhr": 5,
+    "asr": 4,
+    "maghrib": 6,
+    "isha": -1
+  },
+  "days": [
+    {
+      "date": "2026-08-01",
+      "fajr": "04:15",
+      "sunrise": "05:54",
+      "dhuhr": "13:12",
+      "asr": "17:03",
+      "maghrib": "20:19",
+      "isha": "21:51"
+    },
+    {
+      "date": "2026-08-02",
+      "fajr": "04:17",
+      "sunrise": "05:55",
+      "dhuhr": "13:11",
+      "asr": "17:02",
+      "maghrib": "20:18",
+      "isha": "21:50"
+    },
+    {
+      "date": "2026-08-03",
+      "fajr": "04:18",
+      "sunrise": "05:56",
+      "dhuhr": "13:11",
+      "asr": "17:02",
+      "maghrib": "20:17",
+      "isha": "21:48"
+    },
+    {
+      "date": "2026-08-04",
+      "fajr": "04:19",
+      "sunrise": "05:57",
+      "dhuhr": "13:11",
+      "asr": "17:02",
+      "maghrib": "20:16",
+      "isha": "21:47"
+    },
+    {
+      "date": "2026-08-05",
+      "fajr": "04:21",
+      "sunrise": "05:57",
+      "dhuhr": "13:11",
+      "asr": "17:01",
+      "maghrib": "20:15",
+      "isha": "21:45"
+    },
+    {
+      "date": "2026-08-06",
+      "fajr": "04:22",
+      "sunrise": "05:58",
+      "dhuhr": "13:11",
+      "asr": "17:01",
+      "maghrib": "20:14",
+      "isha": "21:44"
+    },
+    {
+      "date": "2026-08-07",
+      "fajr": "04:23",
+      "sunrise": "05:59",
+      "dhuhr": "13:11",
+      "asr": "17:00",
+      "maghrib": "20:13",
+      "isha": "21:42"
+    },
+    {
+      "date": "2026-08-08",
+      "fajr": "04:25",
+      "sunrise": "06:00",
+      "dhuhr": "13:11",
+      "asr": "17:00",
+      "maghrib": "20:12",
+      "isha": "21:41"
+    }
+  ]
+}

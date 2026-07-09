@@ -1,0 +1,48 @@
+{
+  "country": "TR",
+  "city": "saraykent",
+  "district": "saraykent",
+  "parent_city": "yozgat",
+  "source": "diyanet",
+  "method": "turkey",
+  "madhab": "shafi",
+  "year": 2026,
+  "month": 8,
+  "timezone": "Europe/Istanbul",
+  "adjustments": {
+    "sunrise": -7,
+    "dhuhr": 5,
+    "asr": 4,
+    "maghrib": 6,
+    "isha": -1
+  },
+  "days": [
+    {
+      "date": "2026-08-01",
+      "fajr": "03:49",
+      "sunrise": "05:30",
+      "dhuhr": "12:49",
+      "asr": "16:42",
+      "maghrib": "19:59",
+      "isha": "21:33"
+    },
+    {
+      "date": "2026-08-02",
+      "fajr": "03:50",
+      "sunrise": "05:31",
+      "dhuhr": "12:49",
+      "asr": "16:41",
+      "maghrib": "19:58",
+      "isha": "21:31"
+    },
+    {
+      "date": "2026-08-03",
+      "fajr": "03:52",
+      "sunrise": "05:32",
+      "dhuhr": "12:49",
+      "asr": "16:41",
+      "maghrib": "19:57",
+      "isha": "21:30"
+    }
+  ]
+}

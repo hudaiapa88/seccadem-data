@@ -1,0 +1,84 @@
+{
+  "country": "TR",
+  "city": "akyaka",
+  "district": "akyaka",
+  "parent_city": "kars",
+  "source": "diyanet",
+  "method": "turkey",
+  "madhab": "shafi",
+  "year": 2026,
+  "month": 8,
+  "timezone": "Europe/Istanbul",
+  "adjustments": {
+    "sunrise": -7,
+    "dhuhr": 5,
+    "asr": 4,
+    "maghrib": 6,
+    "isha": -1
+  },
+  "days": [
+    {
+      "date": "2026-08-01",
+      "fajr": "03:11",
+      "sunrise": "04:55",
+      "dhuhr": "12:17",
+      "asr": "16:11",
+      "maghrib": "19:29",
+      "isha": "21:05"
+    },
+    {
+      "date": "2026-08-02",
+      "fajr": "03:13",
+      "sunrise": "04:56",
+      "dhuhr": "12:17",
+      "asr": "16:10",
+      "maghrib": "19:28",
+      "isha": "21:04"
+    },
+    {
+      "date": "2026-08-03",
+      "fajr": "03:14",
+      "sunrise": "04:57",
+      "dhuhr": "12:17",
+      "asr": "16:10",
+      "maghrib": "19:27",
+      "isha": "21:02"
+    },
+    {
+      "date": "2026-08-04",
+      "fajr": "03:16",
+      "sunrise": "04:58",
+      "dhuhr": "12:17",
+      "asr": "16:10",
+      "maghrib": "19:26",
+      "isha": "21:01"
+    },
+    {
+      "date": "2026-08-05",
+      "fajr": "03:17",
+      "sunrise": "04:59",
+      "dhuhr": "12:17",
+      "asr": "16:09",
+      "maghrib": "19:25",
+      "isha": "20:59"
+    },
+    {
+      "date": "2026-08-06",
+      "fajr": "03:19",
+      "sunrise": "05:00",
+      "dhuhr": "12:17",
+      "asr": "16:09",
+      "maghrib": "19:23",
+      "isha": "20:57"
+    },
+    {
+      "date": "2026-08-07",
+      "fajr": "03:20",
+      "sunrise": "05:01",
+      "dhuhr": "12:16",
+      "asr": "16:08",
+      "maghrib": "19:22",
+      "isha": "20:56"
+    }
+  ]
+}

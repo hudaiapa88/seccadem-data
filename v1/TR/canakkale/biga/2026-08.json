@@ -1,0 +1,66 @@
+{
+  "country": "TR",
+  "city": "biga",
+  "district": "biga",
+  "parent_city": "canakkale",
+  "source": "diyanet",
+  "method": "turkey",
+  "madhab": "shafi",
+  "year": 2026,
+  "month": 8,
+  "timezone": "Europe/Istanbul",
+  "adjustments": {
+    "sunrise": -7,
+    "dhuhr": 5,
+    "asr": 4,
+    "maghrib": 6,
+    "isha": -1
+  },
+  "days": [
+    {
+      "date": "2026-08-01",
+      "fajr": "04:19",
+      "sunrise": "06:02",
+      "dhuhr": "13:22",
+      "asr": "17:16",
+      "maghrib": "20:33",
+      "isha": "22:08"
+    },
+    {
+      "date": "2026-08-02",
+      "fajr": "04:21",
+      "sunrise": "06:03",
+      "dhuhr": "13:22",
+      "asr": "17:15",
+      "maghrib": "20:32",
+      "isha": "22:07"
+    },
+    {
+      "date": "2026-08-03",
+      "fajr": "04:22",
+      "sunrise": "06:04",
+      "dhuhr": "13:22",
+      "asr": "17:15",
+      "maghrib": "20:31",
+      "isha": "22:05"
+    },
+    {
+      "date": "2026-08-04",
+      "fajr": "04:24",
+      "sunrise": "06:04",
+      "dhuhr": "13:22",
+      "asr": "17:15",
+      "maghrib": "20:30",
+      "isha": "22:04"
+    },
+    {
+      "date": "2026-08-05",
+      "fajr": "04:25",
+      "sunrise": "06:05",
+      "dhuhr": "13:22",
+      "asr": "17:14",
+      "maghrib": "20:29",
+      "isha": "22:02"
+    }
+  ]
+}

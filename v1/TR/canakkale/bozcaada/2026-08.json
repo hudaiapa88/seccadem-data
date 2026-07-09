@@ -1,0 +1,84 @@
+{
+  "country": "TR",
+  "city": "bozcaada",
+  "district": "bozcaada",
+  "parent_city": "canakkale",
+  "source": "diyanet",
+  "method": "turkey",
+  "madhab": "shafi",
+  "year": 2026,
+  "month": 8,
+  "timezone": "Europe/Istanbul",
+  "adjustments": {
+    "sunrise": -7,
+    "dhuhr": 5,
+    "asr": 4,
+    "maghrib": 6,
+    "isha": -1
+  },
+  "days": [
+    {
+      "date": "2026-08-01",
+      "fajr": "04:26",
+      "sunrise": "06:07",
+      "dhuhr": "13:27",
+      "asr": "17:20",
+      "maghrib": "20:37",
+      "isha": "22:11"
+    },
+    {
+      "date": "2026-08-02",
+      "fajr": "04:27",
+      "sunrise": "06:08",
+      "dhuhr": "13:27",
+      "asr": "17:19",
+      "maghrib": "20:36",
+      "isha": "22:10"
+    },
+    {
+      "date": "2026-08-03",
+      "fajr": "04:29",
+      "sunrise": "06:09",
+      "dhuhr": "13:27",
+      "asr": "17:19",
+      "maghrib": "20:35",
+      "isha": "22:08"
+    },
+    {
+      "date": "2026-08-04",
+      "fajr": "04:30",
+      "sunrise": "06:10",
+      "dhuhr": "13:27",
+      "asr": "17:19",
+      "maghrib": "20:34",
+      "isha": "22:07"
+    },
+    {
+      "date": "2026-08-05",
+      "fajr": "04:32",
+      "sunrise": "06:11",
+      "dhuhr": "13:27",
+      "asr": "17:18",
+      "maghrib": "20:33",
+      "isha": "22:05"
+    },
+    {
+      "date": "2026-08-06",
+      "fajr": "04:33",
+      "sunrise": "06:12",
+      "dhuhr": "13:27",
+      "asr": "17:18",
+      "maghrib": "20:32",
+      "isha": "22:03"
+    },
+    {
+      "date": "2026-08-07",
+      "fajr": "04:35",
+      "sunrise": "06:13",
+      "dhuhr": "13:27",
+      "asr": "17:17",
+      "maghrib": "20:30",
+      "isha": "22:02"
+    }
+  ]
+}

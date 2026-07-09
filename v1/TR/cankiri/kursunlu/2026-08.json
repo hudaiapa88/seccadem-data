@@ -1,0 +1,57 @@
+{
+  "country": "TR",
+  "city": "kursunlu",
+  "district": "kursunlu",
+  "parent_city": "cankiri",
+  "source": "diyanet",
+  "method": "turkey",
+  "madhab": "shafi",
+  "year": 2026,
+  "month": 8,
+  "timezone": "Europe/Istanbul",
+  "adjustments": {
+    "sunrise": -7,
+    "dhuhr": 5,
+    "asr": 4,
+    "maghrib": 6,
+    "isha": -1
+  },
+  "days": [
+    {
+      "date": "2026-08-01",
+      "fajr": "03:52",
+      "sunrise": "05:36",
+      "dhuhr": "12:58",
+      "asr": "16:52",
+      "maghrib": "20:11",
+      "isha": "21:47"
+    },
+    {
+      "date": "2026-08-02",
+      "fajr": "03:54",
+      "sunrise": "05:37",
+      "dhuhr": "12:58",
+      "asr": "16:52",
+      "maghrib": "20:10",
+      "isha": "21:46"
+    },
+    {
+      "date": "2026-08-03",
+      "fajr": "03:55",
+      "sunrise": "05:38",
+      "dhuhr": "12:58",
+      "asr": "16:52",
+      "maghrib": "20:09",
+      "isha": "21:44"
+    },
+    {
+      "date": "2026-08-04",
+      "fajr": "03:57",
+      "sunrise": "05:39",
+      "dhuhr": "12:58",
+      "asr": "16:51",
+      "maghrib": "20:07",
+      "isha": "21:43"
+    }
+  ]
+}

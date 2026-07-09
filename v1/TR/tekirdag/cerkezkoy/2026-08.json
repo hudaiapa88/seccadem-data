@@ -1,0 +1,48 @@
+{
+  "country": "TR",
+  "city": "cerkezkoy",
+  "district": "cerkezkoy",
+  "parent_city": "tekirdag",
+  "source": "diyanet",
+  "method": "turkey",
+  "madhab": "shafi",
+  "year": 2026,
+  "month": 8,
+  "timezone": "Europe/Istanbul",
+  "adjustments": {
+    "sunrise": -7,
+    "dhuhr": 5,
+    "asr": 4,
+    "maghrib": 6,
+    "isha": -1
+  },
+  "days": [
+    {
+      "date": "2026-08-01",
+      "fajr": "04:11",
+      "sunrise": "05:56",
+      "dhuhr": "13:19",
+      "asr": "17:14",
+      "maghrib": "20:33",
+      "isha": "22:11"
+    },
+    {
+      "date": "2026-08-02",
+      "fajr": "04:12",
+      "sunrise": "05:57",
+      "dhuhr": "13:19",
+      "asr": "17:14",
+      "maghrib": "20:32",
+      "isha": "22:09"
+    },
+    {
+      "date": "2026-08-03",
+      "fajr": "04:14",
+      "sunrise": "05:58",
+      "dhuhr": "13:19",
+      "asr": "17:13",
+      "maghrib": "20:31",
+      "isha": "22:07"
+    }
+  ]
+}

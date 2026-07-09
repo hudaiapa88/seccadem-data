@@ -1,0 +1,103 @@
+{
+  "methods": [
+    {
+      "id": 1,
+      "key": "mwl",
+      "name": "Muslim World League",
+      "fajr_angle": 18.0,
+      "isha_angle": 17.0
+    },
+    {
+      "id": 2,
+      "key": "isna",
+      "name": "Islamic Society of North America (ISNA)",
+      "fajr_angle": 15.0,
+      "isha_angle": 15.0
+    },
+    {
+      "id": 3,
+      "key": "egypt",
+      "name": "Egyptian General Authority of Survey",
+      "fajr_angle": 19.5,
+      "isha_angle": 17.5
+    },
+    {
+      "id": 4,
+      "key": "umm_al_qura",
+      "name": "Umm Al-Qura University, Makkah",
+      "fajr_angle": 18.5,
+      "isha_interval": 90
+    },
+    {
+      "id": 5,
+      "key": "karachi",
+      "name": "University of Islamic Sciences, Karachi",
+      "fajr_angle": 18.0,
+      "isha_angle": 18.0
+    },
+    {
+      "id": 7,
+      "key": "tehran",
+      "name": "Institute of Geophysics, University of Tehran",
+      "fajr_angle": 17.7,
+      "isha_angle": 14.0,
+      "midnight_mode": "Jafari"
+    },
+    {
+      "id": 8,
+      "key": "gulf",
+      "name": "Gulf Region (Dubai)",
+      "fajr_angle": 19.5,
+      "isha_interval": 90
+    },
+    {
+      "id": 9,
+      "key": "kuwait",
+      "name": "Kuwait",
+      "fajr_angle": 18.0,
+      "isha_angle": 17.5
+    },
+    {
+      "id": 10,
+      "key": "qatar",
+      "name": "Qatar",
+      "fajr_angle": 18.0,
+      "isha_interval": 90
+    },
+    {
+      "id": 11,
+      "key": "singapore",
+      "name": "Majlis Ugama Islam Singapura",
+      "fajr_angle": 20.0,
+      "isha_angle": 18.0
+    },
+    {
+      "id": 13,
+      "key": "turkey",
+      "name": "Diyanet (Turkey)",
+      "fajr_angle": 18.0,
+      "isha_angle": 17.0
+    },
+    {
+      "id": 17,
+      "key": "singapore",
+      "name": "JAKIM (Malaysia)",
+      "fajr_angle": 20.0,
+      "isha_angle": 18.0
+    },
+    {
+      "id": 18,
+      "key": "russia",
+      "name": "Spiritual Administration of Muslims of Russia",
+      "fajr_angle": 16.0,
+      "isha_angle": 15.0
+    },
+    {
+      "id": 20,
+      "key": "singapore",
+      "name": "Kemenag (Indonesia)",
+      "fajr_angle": 20.0,
+      "isha_angle": 18.0
+    }
+  ]
+}

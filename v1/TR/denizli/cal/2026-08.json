@@ -1,0 +1,48 @@
+{
+  "country": "TR",
+  "city": "cal",
+  "district": "cal",
+  "parent_city": "denizli",
+  "source": "diyanet",
+  "method": "turkey",
+  "madhab": "shafi",
+  "year": 2026,
+  "month": 8,
+  "timezone": "Europe/Istanbul",
+  "adjustments": {
+    "sunrise": -7,
+    "dhuhr": 5,
+    "asr": 4,
+    "maghrib": 6,
+    "isha": -1
+  },
+  "days": [
+    {
+      "date": "2026-08-01",
+      "fajr": "04:21",
+      "sunrise": "05:58",
+      "dhuhr": "13:14",
+      "asr": "17:04",
+      "maghrib": "20:20",
+      "isha": "21:50"
+    },
+    {
+      "date": "2026-08-02",
+      "fajr": "04:22",
+      "sunrise": "05:59",
+      "dhuhr": "13:14",
+      "asr": "17:03",
+      "maghrib": "20:19",
+      "isha": "21:48"
+    },
+    {
+      "date": "2026-08-03",
+      "fajr": "04:24",
+      "sunrise": "06:00",
+      "dhuhr": "13:14",
+      "asr": "17:03",
+      "maghrib": "20:18",
+      "isha": "21:47"
+    }
+  ]
+}

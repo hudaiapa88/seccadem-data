@@ -1,0 +1,93 @@
+{
+  "country": "TR",
+  "city": "ovacik",
+  "district": "ovacik",
+  "parent_city": "tunceli",
+  "source": "diyanet",
+  "method": "turkey",
+  "madhab": "shafi",
+  "year": 2026,
+  "month": 8,
+  "timezone": "Europe/Istanbul",
+  "adjustments": {
+    "sunrise": -7,
+    "dhuhr": 5,
+    "asr": 4,
+    "maghrib": 6,
+    "isha": -1
+  },
+  "days": [
+    {
+      "date": "2026-08-01",
+      "fajr": "03:36",
+      "sunrise": "05:16",
+      "dhuhr": "12:35",
+      "asr": "16:26",
+      "maghrib": "19:43",
+      "isha": "21:16"
+    },
+    {
+      "date": "2026-08-02",
+      "fajr": "03:37",
+      "sunrise": "05:17",
+      "dhuhr": "12:34",
+      "asr": "16:26",
+      "maghrib": "19:42",
+      "isha": "21:15"
+    },
+    {
+      "date": "2026-08-03",
+      "fajr": "03:39",
+      "sunrise": "05:18",
+      "dhuhr": "12:34",
+      "asr": "16:26",
+      "maghrib": "19:41",
+      "isha": "21:13"
+    },
+    {
+      "date": "2026-08-04",
+      "fajr": "03:40",
+      "sunrise": "05:19",
+      "dhuhr": "12:34",
+      "asr": "16:25",
+      "maghrib": "19:40",
+      "isha": "21:12"
+    },
+    {
+      "date": "2026-08-05",
+      "fajr": "03:41",
+      "sunrise": "05:19",
+      "dhuhr": "12:34",
+      "asr": "16:25",
+      "maghrib": "19:39",
+      "isha": "21:10"
+    },
+    {
+      "date": "2026-08-06",
+      "fajr": "03:43",
+      "sunrise": "05:20",
+      "dhuhr": "12:34",
+      "asr": "16:25",
+      "maghrib": "19:38",
+      "isha": "21:09"
+    },
+    {
+      "date": "2026-08-07",
+      "fajr": "03:44",
+      "sunrise": "05:21",
+      "dhuhr": "12:34",
+      "asr": "16:24",
+      "maghrib": "19:37",
+      "isha": "21:07"
+    },
+    {
+      "date": "2026-08-08",
+      "fajr": "03:45",
+      "sunrise": "05:22",
+      "dhuhr": "12:34",
+      "asr": "16:24",
+      "maghrib": "19:36",
+      "isha": "21:06"
+    }
+  ]
+}

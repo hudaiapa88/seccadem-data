@@ -1,0 +1,601 @@
+{
+  "version": 1,
+  "total_cities": 320,
+  "countries": {
+    "TR": {
+      "name": "Turkey",
+      "source": "diyanet",
+      "method": "turkey",
+      "madhab": "shafi",
+      "timezone": "Europe/Istanbul",
+      "adjustments": {"sunrise": -7, "dhuhr": 5, "asr": 4, "maghrib": 6, "isha": -1},
+      "cities": [
+        {"name": "istanbul", "lat": 41.0082, "lon": 28.9784},
+        {"name": "ankara", "lat": 39.9334, "lon": 32.8597},
+        {"name": "izmir", "lat": 38.4237, "lon": 27.1428},
+        {"name": "bursa", "lat": 40.1885, "lon": 29.0610},
+        {"name": "antalya", "lat": 36.8969, "lon": 30.7133},
+        {"name": "konya", "lat": 37.8746, "lon": 32.4932},
+        {"name": "adana", "lat": 37.0000, "lon": 35.3213},
+        {"name": "gaziantep", "lat": 37.0662, "lon": 37.3833},
+        {"name": "kayseri", "lat": 38.7333, "lon": 35.4853},
+        {"name": "eskisehir", "lat": 39.7767, "lon": 30.5206},
+        {"name": "mersin", "lat": 36.8000, "lon": 34.6333},
+        {"name": "diyarbakir", "lat": 37.9144, "lon": 40.2306},
+        {"name": "samsun", "lat": 41.2867, "lon": 36.3300},
+        {"name": "denizli", "lat": 37.7765, "lon": 29.0861},
+        {"name": "sanliurfa", "lat": 37.1674, "lon": 38.7955},
+        {"name": "malatya", "lat": 38.3552, "lon": 38.3095},
+        {"name": "trabzon", "lat": 41.0027, "lon": 39.7168},
+        {"name": "erzurum", "lat": 39.9043, "lon": 41.2679},
+        {"name": "van", "lat": 38.4942, "lon": 43.3800},
+        {"name": "manisa", "lat": 38.6191, "lon": 27.4289},
+        {"name": "sivas", "lat": 39.7477, "lon": 37.0179},
+        {"name": "kahramanmaras", "lat": 37.5858, "lon": 36.9371},
+        {"name": "aydin", "lat": 37.8394, "lon": 27.8456},
+        {"name": "tekirdag", "lat": 40.9833, "lon": 27.5167},
+        {"name": "balikesir", "lat": 39.6484, "lon": 27.8826},
+        {"name": "hatay", "lat": 36.4018, "lon": 36.3498},
+        {"name": "canakkale", "lat": 40.1553, "lon": 26.4142},
+        {"name": "edirne", "lat": 41.6764, "lon": 26.5559},
+        {"name": "kocaeli", "lat": 40.8533, "lon": 29.8815},
+        {"name": "sakarya", "lat": 40.7569, "lon": 30.3781},
+        {"name": "duzce", "lat": 40.8438, "lon": 31.1565},
+        {"name": "bolu", "lat": 40.7392, "lon": 31.5102},
+        {"name": "zonguldak", "lat": 41.4564, "lon": 31.7987},
+        {"name": "kastamonu", "lat": 41.3887, "lon": 33.7827},
+        {"name": "sinop", "lat": 42.0231, "lon": 35.1531},
+        {"name": "corum", "lat": 40.5499, "lon": 34.9533},
+        {"name": "amasya", "lat": 40.6499, "lon": 35.8353},
+        {"name": "tokat", "lat": 40.3167, "lon": 36.5500},
+        {"name": "ordu", "lat": 40.9839, "lon": 37.8797},
+        {"name": "giresun", "lat": 40.9128, "lon": 38.3895},
+        {"name": "gumushane", "lat": 40.4386, "lon": 39.5086},
+        {"name": "rize", "lat": 41.0201, "lon": 40.5234},
+        {"name": "artvin", "lat": 41.1828, "lon": 41.8274},
+        {"name": "ardahan", "lat": 41.1105, "lon": 42.7022},
+        {"name": "kars", "lat": 40.6013, "lon": 43.0975},
+        {"name": "agri", "lat": 39.7194, "lon": 43.0503},
+        {"name": "igdir", "lat": 39.9237, "lon": 44.0450},
+        {"name": "mus", "lat": 38.7432, "lon": 41.5065},
+        {"name": "bitlis", "lat": 38.4011, "lon": 42.1080},
+        {"name": "hakkari", "lat": 37.5744, "lon": 43.7408},
+        {"name": "siirt", "lat": 37.9333, "lon": 41.9500},
+        {"name": "sirnak", "lat": 37.5188, "lon": 42.4537},
+        {"name": "mardin", "lat": 37.3122, "lon": 40.7340},
+        {"name": "batman", "lat": 37.8812, "lon": 41.1351},
+        {"name": "kilis", "lat": 36.7184, "lon": 37.1212},
+        {"name": "osmaniye", "lat": 37.0742, "lon": 36.2478},
+        {"name": "nigde", "lat": 37.9667, "lon": 34.6833},
+        {"name": "aksaray", "lat": 38.3687, "lon": 34.0370},
+        {"name": "kirsehir", "lat": 39.1425, "lon": 34.1709},
+        {"name": "nevsehir", "lat": 38.6939, "lon": 34.6857},
+        {"name": "kirikkale", "lat": 39.8468, "lon": 33.5153},
+        {"name": "cankiri", "lat": 40.6013, "lon": 33.6133},
+        {"name": "karabuk", "lat": 41.2061, "lon": 32.6204},
+        {"name": "bartin", "lat": 41.6358, "lon": 32.3375},
+        {"name": "duzce", "lat": 40.8438, "lon": 31.1565},
+        {"name": "yalova", "lat": 40.6500, "lon": 29.2667},
+        {"name": "bilecik", "lat": 40.1426, "lon": 29.9793},
+        {"name": "afyon", "lat": 38.7567, "lon": 30.5433},
+        {"name": "kutahya", "lat": 39.4242, "lon": 29.9833},
+        {"name": "usak", "lat": 38.6742, "lon": 29.4059},
+        {"name": "burdur", "lat": 37.7203, "lon": 30.2908},
+        {"name": "isparta", "lat": 37.7648, "lon": 30.5566},
+        {"name": "mugla", "lat": 37.2154, "lon": 28.3636},
+        {"name": "aydin", "lat": 37.8394, "lon": 27.8456},
+        {"name": "karaman", "lat": 37.1759, "lon": 33.2287},
+        {"name": "kirklareli", "lat": 41.7333, "lon": 27.2167}
+      ]
+    },
+    "CY": {
+      "name": "Cyprus",
+      "source": "diyanet",
+      "method": "turkey",
+      "madhab": "shafi",
+      "timezone": "Asia/Nicosia",
+      "adjustments": {"sunrise": -7, "dhuhr": 5, "asr": 4, "maghrib": 6, "isha": -1},
+      "cities": [
+        {"name": "lefkosa", "lat": 35.1856, "lon": 33.3823},
+        {"name": "gazimagusa", "lat": 35.1118, "lon": 33.9466},
+        {"name": "girne", "lat": 35.3353, "lon": 33.3171},
+        {"name": "guzelyurt", "lat": 35.1983, "lon": 32.9975},
+        {"name": "iskele", "lat": 35.2683, "lon": 33.8883},
+        {"name": "limasol", "lat": 34.6786, "lon": 33.0413},
+        {"name": "larnaka", "lat": 34.9229, "lon": 33.6233},
+        {"name": "baf", "lat": 34.7720, "lon": 32.4297}
+      ]
+    },
+    "SA": {
+      "name": "Saudi Arabia", "source": "aladhan", "method": "umm_al_qura", "madhab": "shafi",
+      "timezone": "Asia/Riyadh", "aladhan_method_id": 4,
+      "cities": [
+        {"name": "makkah", "lat": 21.3891, "lon": 39.8579},
+        {"name": "madinah", "lat": 24.5247, "lon": 39.5692},
+        {"name": "riyadh", "lat": 24.7136, "lon": 46.6753},
+        {"name": "jeddah", "lat": 21.4858, "lon": 39.1925},
+        {"name": "dammam", "lat": 26.4207, "lon": 50.0888}
+      ]
+    },
+    "EG": {
+      "name": "Egypt", "source": "aladhan", "method": "egypt", "madhab": "shafi",
+      "timezone": "Africa/Cairo", "aladhan_method_id": 3,
+      "cities": [
+        {"name": "cairo", "lat": 30.0444, "lon": 31.2357},
+        {"name": "alexandria", "lat": 31.2001, "lon": 29.9187},
+        {"name": "giza", "lat": 30.0131, "lon": 31.2089},
+        {"name": "luxor", "lat": 25.6872, "lon": 32.6396},
+        {"name": "aswan", "lat": 24.0889, "lon": 32.8998}
+      ]
+    },
+    "ID": {
+      "name": "Indonesia", "source": "kemenag", "method": "singapore", "madhab": "shafi",
+      "timezone": "Asia/Jakarta", "aladhan_method_id": 20,
+      "cities": [
+        {"name": "jakarta", "lat": -6.2088, "lon": 106.8456},
+        {"name": "surabaya", "lat": -7.2575, "lon": 112.7521},
+        {"name": "bandung", "lat": -6.9175, "lon": 107.6191},
+        {"name": "medan", "lat": 3.5952, "lon": 98.6722},
+        {"name": "makassar", "lat": -5.1477, "lon": 119.4327}
+      ]
+    },
+    "MY": {
+      "name": "Malaysia", "source": "jakim", "method": "singapore", "madhab": "shafi",
+      "timezone": "Asia/Kuala_Lumpur", "aladhan_method_id": 17,
+      "adjustments": {"fajr": 8, "dhuhr": 2, "asr": 1, "isha": 1},
+      "cities": [
+        {"name": "kuala-lumpur", "lat": 3.1390, "lon": 101.6869},
+        {"name": "putrajaya", "lat": 2.9264, "lon": 101.6964},
+        {"name": "penang", "lat": 5.4141, "lon": 100.3288},
+        {"name": "johor-bahru", "lat": 1.4927, "lon": 103.7414},
+        {"name": "kota-kinabalu", "lat": 5.9788, "lon": 116.0753}
+      ]
+    },
+    "PK": {
+      "name": "Pakistan", "source": "aladhan", "method": "karachi", "madhab": "hanafi",
+      "timezone": "Asia/Karachi", "aladhan_method_id": 5,
+      "cities": [
+        {"name": "karachi", "lat": 24.8607, "lon": 67.0011},
+        {"name": "lahore", "lat": 31.5204, "lon": 74.3587},
+        {"name": "islamabad", "lat": 33.6844, "lon": 73.0479},
+        {"name": "peshawar", "lat": 34.0151, "lon": 71.5249},
+        {"name": "multan", "lat": 30.1575, "lon": 71.5249}
+      ]
+    },
+    "BD": {
+      "name": "Bangladesh", "source": "aladhan", "method": "karachi", "madhab": "hanafi",
+      "timezone": "Asia/Dhaka", "aladhan_method_id": 5,
+      "cities": [
+        {"name": "dhaka", "lat": 23.8103, "lon": 90.4125},
+        {"name": "chittagong", "lat": 22.3569, "lon": 91.7832},
+        {"name": "sylhet", "lat": 24.8949, "lon": 91.8687},
+        {"name": "khulna", "lat": 22.8456, "lon": 89.5403}
+      ]
+    },
+    "IR": {
+      "name": "Iran", "source": "aladhan", "method": "tehran", "madhab": "shafi",
+      "timezone": "Asia/Tehran", "aladhan_method_id": 7,
+      "cities": [
+        {"name": "tehran", "lat": 35.6892, "lon": 51.3890},
+        {"name": "mashhad", "lat": 36.2605, "lon": 59.6168},
+        {"name": "isfahan", "lat": 32.6539, "lon": 51.6660},
+        {"name": "shiraz", "lat": 29.5918, "lon": 52.5837},
+        {"name": "tabriz", "lat": 38.0800, "lon": 46.2919}
+      ]
+    },
+    "AF": {
+      "name": "Afghanistan", "source": "aladhan", "method": "karachi", "madhab": "hanafi",
+      "timezone": "Asia/Kabul", "aladhan_method_id": 5,
+      "cities": [
+        {"name": "kabul", "lat": 34.5553, "lon": 69.2075},
+        {"name": "herat", "lat": 34.3430, "lon": 62.1991},
+        {"name": "kandahar", "lat": 31.6100, "lon": 65.7000}
+      ]
+    },
+    "IN": {
+      "name": "India", "source": "aladhan", "method": "karachi", "madhab": "hanafi",
+      "timezone": "Asia/Kolkata", "aladhan_method_id": 5,
+      "cities": [
+        {"name": "new-delhi", "lat": 28.6139, "lon": 77.2090},
+        {"name": "mumbai", "lat": 19.0760, "lon": 72.8777},
+        {"name": "hyderabad", "lat": 17.3850, "lon": 78.4867},
+        {"name": "kolkata", "lat": 22.5726, "lon": 88.3639},
+        {"name": "chennai", "lat": 13.0827, "lon": 80.2707}
+      ]
+    },
+    "AE": {
+      "name": "United Arab Emirates", "source": "aladhan", "method": "gulf", "madhab": "shafi",
+      "timezone": "Asia/Dubai", "aladhan_method_id": 8,
+      "cities": [
+        {"name": "dubai", "lat": 25.2048, "lon": 55.2708},
+        {"name": "abu-dhabi", "lat": 24.4539, "lon": 54.3773},
+        {"name": "sharjah", "lat": 25.3463, "lon": 55.4209}
+      ]
+    },
+    "BH": {
+      "name": "Bahrain", "source": "aladhan", "method": "gulf", "madhab": "shafi",
+      "timezone": "Asia/Bahrain", "aladhan_method_id": 8,
+      "cities": [{"name": "manama", "lat": 26.2285, "lon": 50.5860}]
+    },
+    "KW": {
+      "name": "Kuwait", "source": "aladhan", "method": "kuwait", "madhab": "shafi",
+      "timezone": "Asia/Kuwait", "aladhan_method_id": 9,
+      "cities": [{"name": "kuwait-city", "lat": 29.3759, "lon": 47.9774}]
+    },
+    "QA": {
+      "name": "Qatar", "source": "aladhan", "method": "qatar", "madhab": "shafi",
+      "timezone": "Asia/Qatar", "aladhan_method_id": 10,
+      "cities": [{"name": "doha", "lat": 25.2854, "lon": 51.5310}]
+    },
+    "OM": {
+      "name": "Oman", "source": "aladhan", "method": "gulf", "madhab": "shafi",
+      "timezone": "Asia/Muscat", "aladhan_method_id": 8,
+      "cities": [{"name": "muscat", "lat": 23.5880, "lon": 58.3829}]
+    },
+    "YE": {
+      "name": "Yemen", "source": "aladhan", "method": "umm_al_qura", "madhab": "shafi",
+      "timezone": "Asia/Aden", "aladhan_method_id": 4,
+      "cities": [
+        {"name": "sanaa", "lat": 15.3694, "lon": 44.1910},
+        {"name": "aden", "lat": 12.7794, "lon": 45.0367}
+      ]
+    },
+    "JO": {
+      "name": "Jordan", "source": "aladhan", "method": "other", "madhab": "shafi",
+      "timezone": "Asia/Amman", "aladhan_method_id": 4,
+      "fajr_angle": 18.0, "isha_angle": 18.0,
+      "adjustments": {"maghrib": 5},
+      "cities": [
+        {"name": "amman", "lat": 31.9454, "lon": 35.9284},
+        {"name": "zarqa", "lat": 32.0728, "lon": 36.1883}
+      ]
+    },
+    "PS": {
+      "name": "Palestine", "source": "aladhan", "method": "umm_al_qura", "madhab": "shafi",
+      "timezone": "Asia/Gaza", "aladhan_method_id": 4,
+      "cities": [
+        {"name": "gaza", "lat": 31.5017, "lon": 34.4668},
+        {"name": "hebron", "lat": 31.5232, "lon": 35.0942}
+      ]
+    },
+    "LB": {
+      "name": "Lebanon", "source": "aladhan", "method": "egypt", "madhab": "shafi",
+      "timezone": "Asia/Beirut", "aladhan_method_id": 3,
+      "cities": [
+        {"name": "beirut", "lat": 33.8938, "lon": 35.5018},
+        {"name": "tripoli", "lat": 34.4367, "lon": 35.8497}
+      ]
+    },
+    "SY": {
+      "name": "Syria", "source": "aladhan", "method": "egypt", "madhab": "shafi",
+      "timezone": "Asia/Damascus", "aladhan_method_id": 3,
+      "cities": [
+        {"name": "damascus", "lat": 33.5138, "lon": 36.2765},
+        {"name": "aleppo", "lat": 36.2021, "lon": 37.1343}
+      ]
+    },
+    "IQ": {
+      "name": "Iraq", "source": "aladhan", "method": "egypt", "madhab": "shafi",
+      "timezone": "Asia/Baghdad", "aladhan_method_id": 3,
+      "cities": [
+        {"name": "baghdad", "lat": 33.3152, "lon": 44.3661},
+        {"name": "basra", "lat": 30.5085, "lon": 47.7804},
+        {"name": "mosul", "lat": 36.3450, "lon": 43.1450}
+      ]
+    },
+    "SD": {
+      "name": "Sudan", "source": "aladhan", "method": "egypt", "madhab": "shafi",
+      "timezone": "Africa/Khartoum", "aladhan_method_id": 3,
+      "cities": [{"name": "khartoum", "lat": 15.5007, "lon": 32.5599}]
+    },
+    "LY": {
+      "name": "Libya", "source": "aladhan", "method": "egypt", "madhab": "shafi",
+      "timezone": "Africa/Tripoli", "aladhan_method_id": 3,
+      "cities": [
+        {"name": "tripoli", "lat": 32.8872, "lon": 13.1913},
+        {"name": "benghazi", "lat": 32.1283, "lon": 20.0683}
+      ]
+    },
+    "MA": {
+      "name": "Morocco", "source": "aladhan", "method": "other", "madhab": "shafi",
+      "timezone": "Africa/Casablanca", "aladhan_method_id": 3,
+      "fajr_angle": 19.0, "isha_angle": 17.0,
+      "adjustments": {"maghrib": 5, "dhuhr": 5},
+      "cities": [
+        {"name": "casablanca", "lat": 33.5731, "lon": -7.5898},
+        {"name": "rabat", "lat": 34.0209, "lon": -6.8416},
+        {"name": "marrakech", "lat": 31.6295, "lon": -7.9811},
+        {"name": "fes", "lat": 34.0181, "lon": -5.0078}
+      ]
+    },
+    "DZ": {
+      "name": "Algeria", "source": "aladhan", "method": "other", "madhab": "shafi",
+      "timezone": "Africa/Algiers", "aladhan_method_id": 3,
+      "fajr_angle": 18.0, "isha_angle": 17.0,
+      "cities": [
+        {"name": "algiers", "lat": 36.7538, "lon": 3.0588},
+        {"name": "oran", "lat": 35.6911, "lon": -0.6417}
+      ]
+    },
+    "TN": {
+      "name": "Tunisia", "source": "aladhan", "method": "other", "madhab": "shafi",
+      "timezone": "Africa/Tunis", "aladhan_method_id": 3,
+      "fajr_angle": 18.0, "isha_angle": 18.0,
+      "cities": [
+        {"name": "tunis", "lat": 36.8065, "lon": 10.1815},
+        {"name": "sfax", "lat": 34.7406, "lon": 10.7597}
+      ]
+    },
+    "SG": {
+      "name": "Singapore", "source": "aladhan", "method": "singapore", "madhab": "shafi",
+      "timezone": "Asia/Singapore", "aladhan_method_id": 11,
+      "cities": [{"name": "singapore", "lat": 1.3521, "lon": 103.8198}]
+    },
+    "BN": {
+      "name": "Brunei", "source": "aladhan", "method": "singapore", "madhab": "shafi",
+      "timezone": "Asia/Brunei", "aladhan_method_id": 11,
+      "cities": [{"name": "bandar-seri-begawan", "lat": 4.9031, "lon": 114.9398}]
+    },
+    "US": {
+      "name": "United States", "source": "aladhan", "method": "isna", "madhab": "shafi",
+      "timezone": "America/New_York", "aladhan_method_id": 2,
+      "cities": [
+        {"name": "new-york", "lat": 40.7128, "lon": -74.0060},
+        {"name": "los-angeles", "lat": 34.0522, "lon": -118.2437},
+        {"name": "chicago", "lat": 41.8781, "lon": -87.6298},
+        {"name": "houston", "lat": 29.7604, "lon": -95.3698},
+        {"name": "detroit", "lat": 42.3314, "lon": -83.0458}
+      ]
+    },
+    "CA": {
+      "name": "Canada", "source": "aladhan", "method": "isna", "madhab": "shafi",
+      "timezone": "America/Toronto", "aladhan_method_id": 2,
+      "cities": [
+        {"name": "toronto", "lat": 43.6532, "lon": -79.3832},
+        {"name": "montreal", "lat": 45.5017, "lon": -73.5673},
+        {"name": "vancouver", "lat": 49.2827, "lon": -123.1207}
+      ]
+    },
+    "GB": {
+      "name": "United Kingdom", "source": "aladhan", "method": "mwl", "madhab": "shafi",
+      "timezone": "Europe/London", "aladhan_method_id": 1,
+      "cities": [
+        {"name": "london", "lat": 51.5074, "lon": -0.1278},
+        {"name": "birmingham", "lat": 52.4862, "lon": -1.8904},
+        {"name": "manchester", "lat": 53.4808, "lon": -2.2426},
+        {"name": "bradford", "lat": 53.7953, "lon": -1.7594}
+      ]
+    },
+    "FR": {
+      "name": "France", "source": "aladhan", "method": "other", "madhab": "shafi",
+      "timezone": "Europe/Paris", "aladhan_method_id": 1,
+      "fajr_angle": 12.0, "isha_angle": 12.0,
+      "cities": [
+        {"name": "paris", "lat": 48.8566, "lon": 2.3522},
+        {"name": "marseille", "lat": 43.2965, "lon": 5.3698},
+        {"name": "lyon", "lat": 45.7640, "lon": 4.8357},
+        {"name": "lille", "lat": 50.6292, "lon": 3.0573}
+      ]
+    },
+    "DE": {
+      "name": "Germany", "source": "aladhan", "method": "mwl", "madhab": "shafi",
+      "timezone": "Europe/Berlin", "aladhan_method_id": 1,
+      "cities": [
+        {"name": "berlin", "lat": 52.5200, "lon": 13.4050},
+        {"name": "cologne", "lat": 50.9375, "lon": 6.9603},
+        {"name": "hamburg", "lat": 53.5511, "lon": 9.9937},
+        {"name": "frankfurt", "lat": 50.1109, "lon": 8.6821},
+        {"name": "munich", "lat": 48.1351, "lon": 11.5820}
+      ]
+    },
+    "NL": {
+      "name": "Netherlands", "source": "aladhan", "method": "mwl", "madhab": "shafi",
+      "timezone": "Europe/Amsterdam", "aladhan_method_id": 1,
+      "cities": [
+        {"name": "amsterdam", "lat": 52.3676, "lon": 4.9041},
+        {"name": "rotterdam", "lat": 51.9244, "lon": 4.4777},
+        {"name": "the-hague", "lat": 52.0705, "lon": 4.3007}
+      ]
+    },
+    "BE": {
+      "name": "Belgium", "source": "aladhan", "method": "mwl", "madhab": "shafi",
+      "timezone": "Europe/Brussels", "aladhan_method_id": 1,
+      "cities": [
+        {"name": "brussels", "lat": 50.8503, "lon": 4.3517},
+        {"name": "antwerp", "lat": 51.2194, "lon": 4.4025}
+      ]
+    },
+    "AT": {
+      "name": "Austria", "source": "aladhan", "method": "mwl", "madhab": "shafi",
+      "timezone": "Europe/Vienna", "aladhan_method_id": 1,
+      "cities": [{"name": "vienna", "lat": 48.2082, "lon": 16.3738}]
+    },
+    "CH": {
+      "name": "Switzerland", "source": "aladhan", "method": "mwl", "madhab": "shafi",
+      "timezone": "Europe/Zurich", "aladhan_method_id": 1,
+      "cities": [
+        {"name": "zurich", "lat": 47.3769, "lon": 8.5417},
+        {"name": "geneva", "lat": 46.2044, "lon": 6.1432}
+      ]
+    },
+    "ES": {
+      "name": "Spain", "source": "aladhan", "method": "mwl", "madhab": "shafi",
+      "timezone": "Europe/Madrid", "aladhan_method_id": 1,
+      "cities": [
+        {"name": "madrid", "lat": 40.4168, "lon": -3.7038},
+        {"name": "barcelona", "lat": 41.3851, "lon": 2.1734}
+      ]
+    },
+    "RU": {
+      "name": "Russia", "source": "aladhan", "method": "other", "madhab": "hanafi",
+      "timezone": "Europe/Moscow", "aladhan_method_id": 18,
+      "fajr_angle": 16.0, "isha_angle": 15.0,
+      "cities": [
+        {"name": "moscow", "lat": 55.7558, "lon": 37.6173},
+        {"name": "kazan", "lat": 55.8304, "lon": 49.0661},
+        {"name": "grozny", "lat": 43.3172, "lon": 45.6983}
+      ]
+    },
+    "KZ": {
+      "name": "Kazakhstan", "source": "aladhan", "method": "other", "madhab": "hanafi",
+      "timezone": "Asia/Almaty", "aladhan_method_id": 18,
+      "fajr_angle": 16.0, "isha_angle": 15.0,
+      "cities": [
+        {"name": "almaty", "lat": 43.2220, "lon": 76.8512},
+        {"name": "astana", "lat": 51.1605, "lon": 71.4704}
+      ]
+    },
+    "UZ": {
+      "name": "Uzbekistan", "source": "aladhan", "method": "other", "madhab": "hanafi",
+      "timezone": "Asia/Tashkent", "aladhan_method_id": 18,
+      "fajr_angle": 16.0, "isha_angle": 15.0,
+      "cities": [
+        {"name": "tashkent", "lat": 41.2995, "lon": 69.2401},
+        {"name": "samarkand", "lat": 39.6270, "lon": 66.9750}
+      ]
+    },
+    "KG": {
+      "name": "Kyrgyzstan", "source": "aladhan", "method": "other", "madhab": "hanafi",
+      "timezone": "Asia/Bishkek", "aladhan_method_id": 18,
+      "fajr_angle": 16.0, "isha_angle": 15.0,
+      "cities": [{"name": "bishkek", "lat": 42.8746, "lon": 74.5698}]
+    },
+    "TJ": {
+      "name": "Tajikistan", "source": "aladhan", "method": "other", "madhab": "hanafi",
+      "timezone": "Asia/Dushanbe", "aladhan_method_id": 18,
+      "fajr_angle": 16.0, "isha_angle": 15.0,
+      "cities": [{"name": "dushanbe", "lat": 38.5598, "lon": 68.7870}]
+    },
+    "TM": {
+      "name": "Turkmenistan", "source": "aladhan", "method": "other", "madhab": "hanafi",
+      "timezone": "Asia/Ashgabat", "aladhan_method_id": 18,
+      "fajr_angle": 16.0, "isha_angle": 15.0,
+      "cities": [{"name": "ashgabat", "lat": 37.9601, "lon": 58.3261}]
+    },
+    "AZ": {
+      "name": "Azerbaijan", "source": "aladhan", "method": "other", "madhab": "hanafi",
+      "timezone": "Asia/Baku", "aladhan_method_id": 18,
+      "fajr_angle": 16.0, "isha_angle": 15.0,
+      "cities": [{"name": "baku", "lat": 40.4093, "lon": 49.8671}]
+    },
+    "BA": {
+      "name": "Bosnia and Herzegovina", "source": "aladhan", "method": "mwl", "madhab": "shafi",
+      "timezone": "Europe/Sarajevo", "aladhan_method_id": 1,
+      "cities": [
+        {"name": "sarajevo", "lat": 43.8563, "lon": 18.4131},
+        {"name": "banja-luka", "lat": 44.7722, "lon": 17.1910}
+      ]
+    },
+    "AL": {
+      "name": "Albania", "source": "aladhan", "method": "mwl", "madhab": "shafi",
+      "timezone": "Europe/Tirane", "aladhan_method_id": 1,
+      "cities": [{"name": "tirana", "lat": 41.3275, "lon": 19.8187}]
+    },
+    "MK": {
+      "name": "North Macedonia", "source": "aladhan", "method": "mwl", "madhab": "shafi",
+      "timezone": "Europe/Skopje", "aladhan_method_id": 1,
+      "cities": [{"name": "skopje", "lat": 41.9981, "lon": 21.4394}]
+    },
+    "XK": {
+      "name": "Kosovo", "source": "aladhan", "method": "mwl", "madhab": "shafi",
+      "timezone": "Europe/Belgrade", "aladhan_method_id": 1,
+      "cities": [{"name": "pristina", "lat": 42.6629, "lon": 21.1655}]
+    },
+    "NG": {
+      "name": "Nigeria", "source": "aladhan", "method": "mwl", "madhab": "shafi",
+      "timezone": "Africa/Lagos", "aladhan_method_id": 1,
+      "cities": [
+        {"name": "lagos", "lat": 6.5244, "lon": 3.3792},
+        {"name": "abuja", "lat": 9.0765, "lon": 7.3986},
+        {"name": "kano", "lat": 12.0022, "lon": 8.5920}
+      ]
+    },
+    "ZA": {
+      "name": "South Africa", "source": "aladhan", "method": "mwl", "madhab": "shafi",
+      "timezone": "Africa/Johannesburg", "aladhan_method_id": 1,
+      "cities": [
+        {"name": "cape-town", "lat": -33.9249, "lon": 18.4241},
+        {"name": "johannesburg", "lat": -26.2041, "lon": 28.0473},
+        {"name": "durban", "lat": -29.8587, "lon": 31.0218}
+      ]
+    },
+    "GH": {
+      "name": "Ghana", "source": "aladhan", "method": "mwl", "madhab": "shafi",
+      "timezone": "Africa/Accra", "aladhan_method_id": 1,
+      "cities": [{"name": "accra", "lat": 5.6037, "lon": -0.1870}]
+    },
+    "KE": {
+      "name": "Kenya", "source": "aladhan", "method": "mwl", "madhab": "shafi",
+      "timezone": "Africa/Nairobi", "aladhan_method_id": 1,
+      "cities": [{"name": "nairobi", "lat": -1.2921, "lon": 36.8219}]
+    },
+    "TZ": {
+      "name": "Tanzania", "source": "aladhan", "method": "mwl", "madhab": "shafi",
+      "timezone": "Africa/Dar_es_Salaam", "aladhan_method_id": 1,
+      "cities": [{"name": "dar-es-salaam", "lat": -6.7924, "lon": 39.2083}]
+    },
+    "SN": {
+      "name": "Senegal", "source": "aladhan", "method": "mwl", "madhab": "shafi",
+      "timezone": "Africa/Dakar", "aladhan_method_id": 1,
+      "cities": [{"name": "dakar", "lat": 14.7167, "lon": -17.4677}]
+    },
+    "ML": {
+      "name": "Mali", "source": "aladhan", "method": "mwl", "madhab": "shafi",
+      "timezone": "Africa/Bamako", "aladhan_method_id": 1,
+      "cities": [{"name": "bamako", "lat": 12.6392, "lon": -8.0029}]
+    },
+    "BF": {
+      "name": "Burkina Faso", "source": "aladhan", "method": "mwl", "madhab": "shafi",
+      "timezone": "Africa/Ouagadougou", "aladhan_method_id": 1,
+      "cities": [{"name": "ouagadougou", "lat": 12.3714, "lon": -1.5197}]
+    },
+    "CI": {
+      "name": "Cote d'Ivoire", "source": "aladhan", "method": "mwl", "madhab": "shafi",
+      "timezone": "Africa/Abidjan", "aladhan_method_id": 1,
+      "cities": [{"name": "abidjan", "lat": 5.3600, "lon": -4.0083}]
+    },
+    "NE": {
+      "name": "Niger", "source": "aladhan", "method": "mwl", "madhab": "shafi",
+      "timezone": "Africa/Niamey", "aladhan_method_id": 1,
+      "cities": [{"name": "niamey", "lat": 13.5117, "lon": 2.1251}]
+    },
+    "TD": {
+      "name": "Chad", "source": "aladhan", "method": "mwl", "madhab": "shafi",
+      "timezone": "Africa/Ndjamena", "aladhan_method_id": 1,
+      "cities": [{"name": "ndjamena", "lat": 12.1348, "lon": 15.0557}]
+    },
+    "DJ": {
+      "name": "Djibouti", "source": "aladhan", "method": "mwl", "madhab": "shafi",
+      "timezone": "Africa/Djibouti", "aladhan_method_id": 1,
+      "cities": [{"name": "djibouti", "lat": 11.5721, "lon": 43.1456}]
+    },
+    "KM": {
+      "name": "Comoros", "source": "aladhan", "method": "mwl", "madhab": "shafi",
+      "timezone": "Indian/Comoro", "aladhan_method_id": 1,
+      "cities": [{"name": "moroni", "lat": -11.7172, "lon": 43.2473}]
+    },
+    "MR": {
+      "name": "Mauritania", "source": "aladhan", "method": "mwl", "madhab": "shafi",
+      "timezone": "Africa/Nouakchott", "aladhan_method_id": 1,
+      "cities": [{"name": "nouakchott", "lat": 18.0735, "lon": -15.9582}]
+    },
+    "SO": {
+      "name": "Somalia", "source": "aladhan", "method": "mwl", "madhab": "shafi",
+      "timezone": "Africa/Mogadishu", "aladhan_method_id": 1,
+      "cities": [
+        {"name": "mogadishu", "lat": 2.0469, "lon": 45.3182},
+        {"name": "hargeisa", "lat": 9.5604, "lon": 44.0650}
+      ]
+    },
+    "NP": {
+      "name": "Nepal", "source": "aladhan", "method": "karachi", "madhab": "hanafi",
+      "timezone": "Asia/Kathmandu", "aladhan_method_id": 5,
+      "cities": [{"name": "kathmandu", "lat": 27.7172, "lon": 85.3240}]
+    },
+    "MU": {
+      "name": "Mauritius", "source": "aladhan", "method": "mwl", "madhab": "shafi",
+      "timezone": "Indian/Mauritius", "aladhan_method_id": 1,
+      "cities": [{"name": "port-louis", "lat": -20.1609, "lon": 57.5012}]
+    }
+  }
+}

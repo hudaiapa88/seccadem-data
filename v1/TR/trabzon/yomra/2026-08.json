@@ -1,0 +1,57 @@
+{
+  "country": "TR",
+  "city": "yomra",
+  "district": "yomra",
+  "parent_city": "trabzon",
+  "source": "diyanet",
+  "method": "turkey",
+  "madhab": "shafi",
+  "year": 2026,
+  "month": 8,
+  "timezone": "Europe/Istanbul",
+  "adjustments": {
+    "sunrise": -7,
+    "dhuhr": 5,
+    "asr": 4,
+    "maghrib": 6,
+    "isha": -1
+  },
+  "days": [
+    {
+      "date": "2026-08-01",
+      "fajr": "03:25",
+      "sunrise": "05:09",
+      "dhuhr": "12:32",
+      "asr": "16:26",
+      "maghrib": "19:45",
+      "isha": "21:22"
+    },
+    {
+      "date": "2026-08-02",
+      "fajr": "03:26",
+      "sunrise": "05:10",
+      "dhuhr": "12:32",
+      "asr": "16:26",
+      "maghrib": "19:44",
+      "isha": "21:20"
+    },
+    {
+      "date": "2026-08-03",
+      "fajr": "03:28",
+      "sunrise": "05:11",
+      "dhuhr": "12:32",
+      "asr": "16:25",
+      "maghrib": "19:42",
+      "isha": "21:18"
+    },
+    {
+      "date": "2026-08-04",
+      "fajr": "03:30",
+      "sunrise": "05:12",
+      "dhuhr": "12:32",
+      "asr": "16:25",
+      "maghrib": "19:41",
+      "isha": "21:17"
+    }
+  ]
+}

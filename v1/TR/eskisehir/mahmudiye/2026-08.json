@@ -1,0 +1,66 @@
+{
+  "country": "TR",
+  "city": "mahmudiye",
+  "district": "mahmudiye",
+  "parent_city": "eskisehir",
+  "source": "diyanet",
+  "method": "turkey",
+  "madhab": "shafi",
+  "year": 2026,
+  "month": 8,
+  "timezone": "Europe/Istanbul",
+  "adjustments": {
+    "sunrise": -7,
+    "dhuhr": 5,
+    "asr": 4,
+    "maghrib": 6,
+    "isha": -1
+  },
+  "days": [
+    {
+      "date": "2026-08-01",
+      "fajr": "04:08",
+      "sunrise": "05:48",
+      "dhuhr": "13:07",
+      "asr": "17:00",
+      "maghrib": "20:17",
+      "isha": "21:50"
+    },
+    {
+      "date": "2026-08-02",
+      "fajr": "04:09",
+      "sunrise": "05:49",
+      "dhuhr": "13:07",
+      "asr": "16:59",
+      "maghrib": "20:16",
+      "isha": "21:48"
+    },
+    {
+      "date": "2026-08-03",
+      "fajr": "04:11",
+      "sunrise": "05:50",
+      "dhuhr": "13:07",
+      "asr": "16:59",
+      "maghrib": "20:14",
+      "isha": "21:47"
+    },
+    {
+      "date": "2026-08-04",
+      "fajr": "04:12",
+      "sunrise": "05:51",
+      "dhuhr": "13:07",
+      "asr": "16:58",
+      "maghrib": "20:13",
+      "isha": "21:45"
+    },
+    {
+      "date": "2026-08-05",
+      "fajr": "04:14",
+      "sunrise": "05:52",
+      "dhuhr": "13:07",
+      "asr": "16:58",
+      "maghrib": "20:12",
+      "isha": "21:44"
+    }
+  ]
+}

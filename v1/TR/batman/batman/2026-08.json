@@ -1,0 +1,57 @@
+{
+  "country": "TR",
+  "city": "batman",
+  "district": "batman",
+  "parent_city": "batman",
+  "source": "diyanet",
+  "method": "turkey",
+  "madhab": "shafi",
+  "year": 2026,
+  "month": 8,
+  "timezone": "Europe/Istanbul",
+  "adjustments": {
+    "sunrise": -7,
+    "dhuhr": 5,
+    "asr": 4,
+    "maghrib": 6,
+    "isha": -1
+  },
+  "days": [
+    {
+      "date": "2026-08-01",
+      "fajr": "03:35",
+      "sunrise": "05:12",
+      "dhuhr": "12:27",
+      "asr": "16:16",
+      "maghrib": "19:32",
+      "isha": "21:02"
+    },
+    {
+      "date": "2026-08-02",
+      "fajr": "03:36",
+      "sunrise": "05:12",
+      "dhuhr": "12:27",
+      "asr": "16:16",
+      "maghrib": "19:31",
+      "isha": "21:01"
+    },
+    {
+      "date": "2026-08-03",
+      "fajr": "03:38",
+      "sunrise": "05:13",
+      "dhuhr": "12:27",
+      "asr": "16:16",
+      "maghrib": "19:30",
+      "isha": "20:59"
+    },
+    {
+      "date": "2026-08-04",
+      "fajr": "03:39",
+      "sunrise": "05:14",
+      "dhuhr": "12:27",
+      "asr": "16:16",
+      "maghrib": "19:29",
+      "isha": "20:58"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "country": "TR",
+  "city": "bodrum",
+  "district": "bodrum",
+  "parent_city": "mugla",
+  "source": "diyanet",
+  "method": "turkey",
+  "madhab": "shafi",
+  "year": 2026,
+  "month": 8,
+  "timezone": "Europe/Istanbul",
+  "adjustments": {
+    "sunrise": -7,
+    "dhuhr": 5,
+    "asr": 4,
+    "maghrib": 6,
+    "isha": -1
+  },
+  "days": [
+    {
+      "date": "2026-08-01",
+      "fajr": "04:34",
+      "sunrise": "06:08",
+      "dhuhr": "13:22",
+      "asr": "17:10",
+      "maghrib": "20:25",
+      "isha": "21:53"
+    },
+    {
+      "date": "2026-08-02",
+      "fajr": "04:35",
+      "sunrise": "06:09",
+      "dhuhr": "13:22",
+      "asr": "17:10",
+      "maghrib": "20:24",
+      "isha": "21:52"
+    },
+    {
+      "date": "2026-08-03",
+      "fajr": "04:36",
+      "sunrise": "06:10",
+      "dhuhr": "13:22",
+      "asr": "17:09",
+      "maghrib": "20:23",
+      "isha": "21:51"
+    },
+    {
+      "date": "2026-08-04",
+      "fajr": "04:37",
+      "sunrise": "06:11",
+      "dhuhr": "13:21",
+      "asr": "17:09",
+      "maghrib": "20:22",
+      "isha": "21:49"
+    },
+    {
+      "date": "2026-08-05",
+      "fajr": "04:38",
+      "sunrise": "06:11",
+      "dhuhr": "13:21",
+      "asr": "17:09",
+      "maghrib": "20:21",
+      "isha": "21:48"
+    }
+  ]
+}

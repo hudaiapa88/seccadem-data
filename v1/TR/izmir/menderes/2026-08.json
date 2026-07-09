@@ -1,0 +1,57 @@
+{
+  "country": "TR",
+  "city": "menderes",
+  "district": "menderes",
+  "parent_city": "izmir",
+  "source": "diyanet",
+  "method": "turkey",
+  "madhab": "shafi",
+  "year": 2026,
+  "month": 8,
+  "timezone": "Europe/Istanbul",
+  "adjustments": {
+    "sunrise": -7,
+    "dhuhr": 5,
+    "asr": 4,
+    "maghrib": 6,
+    "isha": -1
+  },
+  "days": [
+    {
+      "date": "2026-08-01",
+      "fajr": "04:29",
+      "sunrise": "06:07",
+      "dhuhr": "13:23",
+      "asr": "17:13",
+      "maghrib": "20:29",
+      "isha": "22:00"
+    },
+    {
+      "date": "2026-08-02",
+      "fajr": "04:31",
+      "sunrise": "06:08",
+      "dhuhr": "13:23",
+      "asr": "17:13",
+      "maghrib": "20:28",
+      "isha": "21:58"
+    },
+    {
+      "date": "2026-08-03",
+      "fajr": "04:32",
+      "sunrise": "06:08",
+      "dhuhr": "13:23",
+      "asr": "17:12",
+      "maghrib": "20:27",
+      "isha": "21:57"
+    },
+    {
+      "date": "2026-08-04",
+      "fajr": "04:33",
+      "sunrise": "06:09",
+      "dhuhr": "13:23",
+      "asr": "17:12",
+      "maghrib": "20:26",
+      "isha": "21:55"
+    }
+  ]
+}

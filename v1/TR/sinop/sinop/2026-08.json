@@ -1,0 +1,57 @@
+{
+  "country": "TR",
+  "city": "sinop",
+  "district": "sinop",
+  "parent_city": "sinop",
+  "source": "diyanet",
+  "method": "turkey",
+  "madhab": "shafi",
+  "year": 2026,
+  "month": 8,
+  "timezone": "Europe/Istanbul",
+  "adjustments": {
+    "sunrise": -7,
+    "dhuhr": 5,
+    "asr": 4,
+    "maghrib": 6,
+    "isha": -1
+  },
+  "days": [
+    {
+      "date": "2026-08-01",
+      "fajr": "03:38",
+      "sunrise": "05:26",
+      "dhuhr": "12:51",
+      "asr": "16:47",
+      "maghrib": "20:06",
+      "isha": "21:46"
+    },
+    {
+      "date": "2026-08-02",
+      "fajr": "03:39",
+      "sunrise": "05:27",
+      "dhuhr": "12:51",
+      "asr": "16:46",
+      "maghrib": "20:05",
+      "isha": "21:44"
+    },
+    {
+      "date": "2026-08-03",
+      "fajr": "03:41",
+      "sunrise": "05:28",
+      "dhuhr": "12:51",
+      "asr": "16:46",
+      "maghrib": "20:04",
+      "isha": "21:43"
+    },
+    {
+      "date": "2026-08-04",
+      "fajr": "03:43",
+      "sunrise": "05:29",
+      "dhuhr": "12:51",
+      "asr": "16:45",
+      "maghrib": "20:03",
+      "isha": "21:41"
+    }
+  ]
+}

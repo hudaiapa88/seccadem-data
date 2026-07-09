@@ -1,0 +1,159 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Seccadem Prayer Times Data",
+  "description": "Monthly prayer times data for a city",
+  "type": "object",
+  "required": [
+    "country",
+    "city",
+    "source",
+    "method",
+    "madhab",
+    "year",
+    "month",
+    "timezone",
+    "days"
+  ],
+  "properties": {
+    "country": {
+      "type": "string",
+      "description": "ISO 3166-1 alpha-2 country code",
+      "pattern": "^[A-Z]{2}$"
+    },
+    "city": {
+      "type": "string",
+      "description": "City name (lowercase, kebab-case)",
+      "pattern": "^[a-z0-9-]+$"
+    },
+    "source": {
+      "type": "string",
+      "enum": [
+        "diyanet",
+        "aladhan",
+        "jakim",
+        "kemenag"
+      ]
+    },
+    "method": {
+      "type": "string",
+      "description": "Calculation method key"
+    },
+    "madhab": {
+      "type": "string",
+      "enum": [
+        "shafi",
+        "hanafi"
+      ]
+    },
+    "year": {
+      "type": "integer",
+      "minimum": 2024,
+      "maximum": 2030
+    },
+    "month": {
+      "type": "integer",
+      "minimum": 1,
+      "maximum": 12
+    },
+    "timezone": {
+      "type": "string",
+      "description": "IANA timezone (e.g. Europe/Istanbul)"
+    },
+    "coordinates": {
+      "type": "object",
+      "required": [
+        "lat",
+        "lon"
+      ],
+      "properties": {
+        "lat": {
+          "type": "number",
+          "minimum": -90,
+          "maximum": 90
+        },
+        "lon": {
+          "type": "number",
+          "minimum": -180,
+          "maximum": 180
+        }
+      }
+    },
+    "adjustments": {
+      "type": "object",
+      "description": "Path A calibration adjustments in minutes",
+      "properties": {
+        "fajr": {
+          "type": "integer"
+        },
+        "sunrise": {
+          "type": "integer"
+        },
+        "dhuhr": {
+          "type": "integer"
+        },
+        "asr": {
+          "type": "integer"
+        },
+        "maghrib": {
+          "type": "integer"
+        },
+        "isha": {
+          "type": "integer"
+        }
+      }
+    },
+    "days": {
+      "type": "array",
+      "minItems": 28,
+      "maxItems": 31,
+      "items": {
+        "type": "object",
+        "required": [
+          "date",
+          "fajr",
+          "sunrise",
+          "dhuhr",
+          "asr",
+          "maghrib",
+          "isha"
+        ],
+        "properties": {
+          "date": {
+            "type": "string",
+            "format": "date",
+            "pattern": "^\\d{4}-\\d{2}-\\d{2}$"
+          },
+          "hijri": {
+            "type": "string",
+            "description": "Hijri date (optional)",
+            "pattern": "^\\d{4}-\\d{2}-\\d{2}$"
+          },
+          "fajr": {
+            "type": "string",
+            "pattern": "^\\d{2}:\\d{2}$"
+          },
+          "sunrise": {
+            "type": "string",
+            "pattern": "^\\d{2}:\\d{2}$"
+          },
+          "dhuhr": {
+            "type": "string",
+            "pattern": "^\\d{2}:\\d{2}$"
+          },
+          "asr": {
+            "type": "string",
+            "pattern": "^\\d{2}:\\d{2}$"
+          },
+          "maghrib": {
+            "type": "string",
+            "pattern": "^\\d{2}:\\d{2}$"
+          },
+          "isha": {
+            "type": "string",
+            "pattern": "^\\d{2}:\\d{2}$"
+          }
+        }
+      }
+    }
+  }
+}

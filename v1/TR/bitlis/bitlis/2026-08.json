@@ -1,0 +1,93 @@
+{
+  "country": "TR",
+  "city": "bitlis",
+  "district": "bitlis",
+  "parent_city": "bitlis",
+  "source": "diyanet",
+  "method": "turkey",
+  "madhab": "shafi",
+  "year": 2026,
+  "month": 8,
+  "timezone": "Europe/Istanbul",
+  "adjustments": {
+    "sunrise": -7,
+    "dhuhr": 5,
+    "asr": 4,
+    "maghrib": 6,
+    "isha": -1
+  },
+  "days": [
+    {
+      "date": "2026-08-01",
+      "fajr": "03:29",
+      "sunrise": "05:06",
+      "dhuhr": "12:23",
+      "asr": "16:13",
+      "maghrib": "19:30",
+      "isha": "21:00"
+    },
+    {
+      "date": "2026-08-02",
+      "fajr": "03:30",
+      "sunrise": "05:07",
+      "dhuhr": "12:23",
+      "asr": "16:13",
+      "maghrib": "19:29",
+      "isha": "20:59"
+    },
+    {
+      "date": "2026-08-03",
+      "fajr": "03:31",
+      "sunrise": "05:08",
+      "dhuhr": "12:23",
+      "asr": "16:13",
+      "maghrib": "19:28",
+      "isha": "20:58"
+    },
+    {
+      "date": "2026-08-04",
+      "fajr": "03:33",
+      "sunrise": "05:09",
+      "dhuhr": "12:23",
+      "asr": "16:12",
+      "maghrib": "19:27",
+      "isha": "20:56"
+    },
+    {
+      "date": "2026-08-05",
+      "fajr": "03:34",
+      "sunrise": "05:10",
+      "dhuhr": "12:23",
+      "asr": "16:12",
+      "maghrib": "19:25",
+      "isha": "20:55"
+    },
+    {
+      "date": "2026-08-06",
+      "fajr": "03:35",
+      "sunrise": "05:11",
+      "dhuhr": "12:23",
+      "asr": "16:12",
+      "maghrib": "19:24",
+      "isha": "20:53"
+    },
+    {
+      "date": "2026-08-07",
+      "fajr": "03:37",
+      "sunrise": "05:12",
+      "dhuhr": "12:22",
+      "asr": "16:11",
+      "maghrib": "19:23",
+      "isha": "20:52"
+    },
+    {
+      "date": "2026-08-08",
+      "fajr": "03:38",
+      "sunrise": "05:13",
+      "dhuhr": "12:22",
+      "asr": "16:11",
+      "maghrib": "19:22",
+      "isha": "20:50"
+    }
+  ]
+}

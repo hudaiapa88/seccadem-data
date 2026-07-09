@@ -1,0 +1,66 @@
+{
+  "country": "TR",
+  "city": "erbaa",
+  "district": "erbaa",
+  "parent_city": "tokat",
+  "source": "diyanet",
+  "method": "turkey",
+  "madhab": "shafi",
+  "year": 2026,
+  "month": 8,
+  "timezone": "Europe/Istanbul",
+  "adjustments": {
+    "sunrise": -7,
+    "dhuhr": 5,
+    "asr": 4,
+    "maghrib": 6,
+    "isha": -1
+  },
+  "days": [
+    {
+      "date": "2026-08-01",
+      "fajr": "03:40",
+      "sunrise": "05:23",
+      "dhuhr": "12:45",
+      "asr": "16:39",
+      "maghrib": "19:57",
+      "isha": "21:33"
+    },
+    {
+      "date": "2026-08-02",
+      "fajr": "03:41",
+      "sunrise": "05:24",
+      "dhuhr": "12:45",
+      "asr": "16:39",
+      "maghrib": "19:56",
+      "isha": "21:32"
+    },
+    {
+      "date": "2026-08-03",
+      "fajr": "03:43",
+      "sunrise": "05:25",
+      "dhuhr": "12:45",
+      "asr": "16:38",
+      "maghrib": "19:55",
+      "isha": "21:30"
+    },
+    {
+      "date": "2026-08-04",
+      "fajr": "03:44",
+      "sunrise": "05:26",
+      "dhuhr": "12:45",
+      "asr": "16:38",
+      "maghrib": "19:54",
+      "isha": "21:29"
+    },
+    {
+      "date": "2026-08-05",
+      "fajr": "03:46",
+      "sunrise": "05:27",
+      "dhuhr": "12:45",
+      "asr": "16:37",
+      "maghrib": "19:53",
+      "isha": "21:27"
+    }
+  ]
+}

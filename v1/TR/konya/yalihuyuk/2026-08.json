@@ -1,0 +1,57 @@
+{
+  "country": "TR",
+  "city": "yalihuyuk",
+  "district": "yalihuyuk",
+  "parent_city": "konya",
+  "source": "diyanet",
+  "method": "turkey",
+  "madhab": "shafi",
+  "year": 2026,
+  "month": 8,
+  "timezone": "Europe/Istanbul",
+  "adjustments": {
+    "sunrise": -7,
+    "dhuhr": 5,
+    "asr": 4,
+    "maghrib": 6,
+    "isha": -1
+  },
+  "days": [
+    {
+      "date": "2026-08-01",
+      "fajr": "04:14",
+      "sunrise": "05:49",
+      "dhuhr": "13:03",
+      "asr": "16:52",
+      "maghrib": "20:07",
+      "isha": "21:36"
+    },
+    {
+      "date": "2026-08-02",
+      "fajr": "04:15",
+      "sunrise": "05:50",
+      "dhuhr": "13:03",
+      "asr": "16:51",
+      "maghrib": "20:06",
+      "isha": "21:34"
+    },
+    {
+      "date": "2026-08-03",
+      "fajr": "04:16",
+      "sunrise": "05:51",
+      "dhuhr": "13:03",
+      "asr": "16:51",
+      "maghrib": "20:05",
+      "isha": "21:33"
+    },
+    {
+      "date": "2026-08-04",
+      "fajr": "04:18",
+      "sunrise": "05:52",
+      "dhuhr": "13:03",
+      "asr": "16:51",
+      "maghrib": "20:04",
+      "isha": "21:32"
+    }
+  ]
+}

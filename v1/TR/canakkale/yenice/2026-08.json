@@ -1,0 +1,93 @@
+{
+  "country": "TR",
+  "city": "yenice",
+  "district": "yenice",
+  "parent_city": "canakkale",
+  "source": "diyanet",
+  "method": "turkey",
+  "madhab": "shafi",
+  "year": 2026,
+  "month": 8,
+  "timezone": "Europe/Istanbul",
+  "adjustments": {
+    "sunrise": -7,
+    "dhuhr": 5,
+    "asr": 4,
+    "maghrib": 6,
+    "isha": -1
+  },
+  "days": [
+    {
+      "date": "2026-08-01",
+      "fajr": "04:21",
+      "sunrise": "06:02",
+      "dhuhr": "13:22",
+      "asr": "17:15",
+      "maghrib": "20:33",
+      "isha": "22:07"
+    },
+    {
+      "date": "2026-08-02",
+      "fajr": "04:22",
+      "sunrise": "06:03",
+      "dhuhr": "13:22",
+      "asr": "17:15",
+      "maghrib": "20:31",
+      "isha": "22:05"
+    },
+    {
+      "date": "2026-08-03",
+      "fajr": "04:24",
+      "sunrise": "06:04",
+      "dhuhr": "13:22",
+      "asr": "17:14",
+      "maghrib": "20:30",
+      "isha": "22:04"
+    },
+    {
+      "date": "2026-08-04",
+      "fajr": "04:25",
+      "sunrise": "06:05",
+      "dhuhr": "13:22",
+      "asr": "17:14",
+      "maghrib": "20:29",
+      "isha": "22:02"
+    },
+    {
+      "date": "2026-08-05",
+      "fajr": "04:26",
+      "sunrise": "06:06",
+      "dhuhr": "13:22",
+      "asr": "17:14",
+      "maghrib": "20:28",
+      "isha": "22:01"
+    },
+    {
+      "date": "2026-08-06",
+      "fajr": "04:28",
+      "sunrise": "06:07",
+      "dhuhr": "13:22",
+      "asr": "17:13",
+      "maghrib": "20:27",
+      "isha": "21:59"
+    },
+    {
+      "date": "2026-08-07",
+      "fajr": "04:29",
+      "sunrise": "06:08",
+      "dhuhr": "13:22",
+      "asr": "17:13",
+      "maghrib": "20:26",
+      "isha": "21:58"
+    },
+    {
+      "date": "2026-08-08",
+      "fajr": "04:31",
+      "sunrise": "06:09",
+      "dhuhr": "13:22",
+      "asr": "17:12",
+      "maghrib": "20:25",
+      "isha": "21:56"
+    }
+  ]
+}

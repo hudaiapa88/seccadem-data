@@ -1,0 +1,66 @@
+{
+  "country": "TR",
+  "city": "gole",
+  "district": "gole",
+  "parent_city": "ardahan",
+  "source": "diyanet",
+  "method": "turkey",
+  "madhab": "shafi",
+  "year": 2026,
+  "month": 8,
+  "timezone": "Europe/Istanbul",
+  "adjustments": {
+    "sunrise": -7,
+    "dhuhr": 5,
+    "asr": 4,
+    "maghrib": 6,
+    "isha": -1
+  },
+  "days": [
+    {
+      "date": "2026-08-01",
+      "fajr": "03:15",
+      "sunrise": "04:59",
+      "dhuhr": "12:21",
+      "asr": "16:15",
+      "maghrib": "19:33",
+      "isha": "21:10"
+    },
+    {
+      "date": "2026-08-02",
+      "fajr": "03:16",
+      "sunrise": "05:00",
+      "dhuhr": "12:21",
+      "asr": "16:15",
+      "maghrib": "19:32",
+      "isha": "21:08"
+    },
+    {
+      "date": "2026-08-03",
+      "fajr": "03:18",
+      "sunrise": "05:01",
+      "dhuhr": "12:21",
+      "asr": "16:14",
+      "maghrib": "19:31",
+      "isha": "21:07"
+    },
+    {
+      "date": "2026-08-04",
+      "fajr": "03:19",
+      "sunrise": "05:02",
+      "dhuhr": "12:21",
+      "asr": "16:14",
+      "maghrib": "19:30",
+      "isha": "21:05"
+    },
+    {
+      "date": "2026-08-05",
+      "fajr": "03:21",
+      "sunrise": "05:03",
+      "dhuhr": "12:21",
+      "asr": "16:13",
+      "maghrib": "19:29",
+      "isha": "21:03"
+    }
+  ]
+}

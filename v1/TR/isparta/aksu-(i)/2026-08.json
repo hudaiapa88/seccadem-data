@@ -1,0 +1,48 @@
+{
+  "country": "TR",
+  "city": "aksu-(i)",
+  "district": "aksu-(i)",
+  "parent_city": "isparta",
+  "source": "diyanet",
+  "method": "turkey",
+  "madhab": "shafi",
+  "year": 2026,
+  "month": 8,
+  "timezone": "Europe/Istanbul",
+  "adjustments": {
+    "sunrise": -7,
+    "dhuhr": 5,
+    "asr": 4,
+    "maghrib": 6,
+    "isha": -1
+  },
+  "days": [
+    {
+      "date": "2026-08-01",
+      "fajr": "04:16",
+      "sunrise": "05:52",
+      "dhuhr": "13:07",
+      "asr": "16:56",
+      "maghrib": "20:12",
+      "isha": "21:42"
+    },
+    {
+      "date": "2026-08-02",
+      "fajr": "04:17",
+      "sunrise": "05:53",
+      "dhuhr": "13:07",
+      "asr": "16:56",
+      "maghrib": "20:11",
+      "isha": "21:41"
+    },
+    {
+      "date": "2026-08-03",
+      "fajr": "04:18",
+      "sunrise": "05:54",
+      "dhuhr": "13:07",
+      "asr": "16:56",
+      "maghrib": "20:10",
+      "isha": "21:39"
+    }
+  ]
+}

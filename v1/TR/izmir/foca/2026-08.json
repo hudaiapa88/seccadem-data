@@ -1,0 +1,66 @@
+{
+  "country": "TR",
+  "city": "foca",
+  "district": "foca",
+  "parent_city": "izmir",
+  "source": "diyanet",
+  "method": "turkey",
+  "madhab": "shafi",
+  "year": 2026,
+  "month": 8,
+  "timezone": "Europe/Istanbul",
+  "adjustments": {
+    "sunrise": -7,
+    "dhuhr": 5,
+    "asr": 4,
+    "maghrib": 6,
+    "isha": -1
+  },
+  "days": [
+    {
+      "date": "2026-08-01",
+      "fajr": "04:29",
+      "sunrise": "06:07",
+      "dhuhr": "13:24",
+      "asr": "17:15",
+      "maghrib": "20:32",
+      "isha": "22:03"
+    },
+    {
+      "date": "2026-08-02",
+      "fajr": "04:30",
+      "sunrise": "06:08",
+      "dhuhr": "13:24",
+      "asr": "17:15",
+      "maghrib": "20:31",
+      "isha": "22:02"
+    },
+    {
+      "date": "2026-08-03",
+      "fajr": "04:32",
+      "sunrise": "06:09",
+      "dhuhr": "13:24",
+      "asr": "17:15",
+      "maghrib": "20:30",
+      "isha": "22:00"
+    },
+    {
+      "date": "2026-08-04",
+      "fajr": "04:33",
+      "sunrise": "06:10",
+      "dhuhr": "13:24",
+      "asr": "17:14",
+      "maghrib": "20:29",
+      "isha": "21:59"
+    },
+    {
+      "date": "2026-08-05",
+      "fajr": "04:34",
+      "sunrise": "06:11",
+      "dhuhr": "13:24",
+      "asr": "17:14",
+      "maghrib": "20:27",
+      "isha": "21:57"
+    }
+  ]
+}
