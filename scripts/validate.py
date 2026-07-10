@@ -5,15 +5,16 @@ Usage: python validate.py
 """
 
 import json
+import re
 import sys
 from pathlib import Path
 
 REPO_ROOT = Path(__file__).parent.parent
 DATA_DIR = REPO_ROOT / "v1"
-REQUIRED_FIELDS = ["country", "city", "source", "method", "madhab", "year", "month", "timezone", "days"]
+REQUIRED_FIELDS = ["country", "city", "source", "method", "madhab", "year", "timezone", "days"]
 DAY_FIELDS = ["date", "fajr", "sunrise", "dhuhr", "asr", "maghrib", "isha"]
-TIME_PATTERN = __import__("re").compile(r"^\d{2}:\d{2}$")
-DATE_PATTERN = __import__("re").compile(r"^\d{4}-\d{2}-\d{2}$")
+TIME_PATTERN = re.compile(r"^\d{2}:\d{2}$")
+DATE_PATTERN = re.compile(r"^\d{4}-\d{2}-\d{2}$")
 
 
 def validate_file(filepath):
@@ -34,11 +35,17 @@ def validate_file(filepath):
     if errors:
         return errors
 
-    # Check year/month match filename
-    filename = filepath.stem  # "2026-07"
-    expected_ym = f"{data['year']}-{data['month']:02d}"
-    if filename != expected_ym:
-        errors.append(f"Filename {filename} doesn't match year-month {expected_ym}")
+    # Check year/month match filename (for monthly files only)
+    filename = filepath.stem  # "2026-07" or "2026"
+    has_month = "month" in data
+    if has_month:
+        expected_ym = f"{data['year']}-{data['month']:02d}"
+        if filename != expected_ym:
+            errors.append(f"Filename {filename} doesn't match year-month {expected_ym}")
+    else:
+        # Yearly file — filename should be just the year
+        if filename != str(data["year"]):
+            errors.append(f"Filename {filename} doesn't match year {data['year']}")
 
     # Check days array
     days = data.get("days", [])
@@ -46,8 +53,12 @@ def validate_file(filepath):
         errors.append("No days data")
         return errors
 
-    if len(days) < 1 or len(days) > 31:
-        errors.append(f"Unexpected day count: {len(days)} (expected 1-31)")
+    if has_month:
+        if len(days) < 1 or len(days) > 31:
+            errors.append(f"Unexpected day count: {len(days)} (expected 1-31 for monthly)")
+    else:
+        if len(days) < 364 or len(days) > 366:
+            errors.append(f"Unexpected day count: {len(days)} (expected 364-366 for yearly)")
 
     for i, day in enumerate(days):
         for field in DAY_FIELDS:
@@ -81,6 +92,7 @@ def validate_file(filepath):
 
 
 def main():
+    sys.stdout.reconfigure(encoding="utf-8", errors="replace")
     if not DATA_DIR.exists():
         print("v1/ directory not found")
         sys.exit(1)

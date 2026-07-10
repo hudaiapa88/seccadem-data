@@ -93,20 +93,31 @@ def fetch_aladhan_month(lat, lon, method_id, year, month):
     return days
 
 
-def save_month_data(country_code, city_name, year, month, data):
-    """Save a month's data as JSON."""
+def save_yearly_data(country_code, city_name, year, data):
+    """Save yearly data as JSON."""
     city_dir = DATA_DIR / country_code / city_name
     city_dir.mkdir(parents=True, exist_ok=True)
-    filepath = city_dir / f"{year}-{month:02d}.json"
+    filepath = city_dir / f"{year}.json"
     with open(filepath, "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
     return filepath
 
 
-def scrape_country(country_code, country_info, year, months=None):
-    """Scrape all cities for a country via Aladhan."""
-    if months is None:
-        months = list(range(1, 13))
+def clean_old_monthly_files(country_code, city_name, year):
+    """Remove old monthly files for this city."""
+    city_dir = DATA_DIR / country_code / city_name
+    if not city_dir.exists():
+        return 0
+
+    removed = 0
+    for f in city_dir.glob(f"{year}-*.json"):
+        f.unlink()
+        removed += 1
+    return removed
+
+
+def scrape_country(country_code, country_info, year, clean=False):
+    """Scrape all cities for a country via Aladhan — yearly file."""
 
     source = country_info.get("source", "aladhan")
     method = country_info.get("method", "mwl")
@@ -130,42 +141,58 @@ def scrape_country(country_code, country_info, year, months=None):
         lat = city["lat"]
         lon = city["lon"]
 
-        print(f"    {city_name} ({lat}, {lon})...", end=" ")
+        # Check if yearly file already exists (idempotent)
+        output_path = DATA_DIR / country_code / city_name / f"{year}.json"
+        if output_path.exists():
+            continue
 
-        success = 0
-        for month in months:
+        print(f"    {city_name} ({lat}, {lon})...", end=" ", flush=True)
+
+        all_days = []
+        for month in range(1, 13):
             days = fetch_aladhan_month(lat, lon, method_id, year, month)
             if not days:
                 print(f"M{month} fail", end=" ")
                 continue
-
-            data = {
-                "country": country_code,
-                "city": city_name,
-                "source": source,
-                "method": method,
-                "madhab": madhab,
-                "year": year,
-                "month": month,
-                "timezone": timezone,
-                "coordinates": {"lat": lat, "lon": lon},
-            }
-
-            if adjustments:
-                data["adjustments"] = adjustments
-            if fajr_angle:
-                data["fajr_angle"] = fajr_angle
-            if isha_angle:
-                data["isha_angle"] = isha_angle
-
-            data["days"] = days
-
-            save_month_data(country_code, city_name, year, month, data)
-            success += 1
+            all_days.extend(days)
             time.sleep(RATE_LIMIT)
 
-        total_files += success
-        print(f"{success}/{len(months)} months")
+        if not all_days:
+            print("FAIL (no data)")
+            continue
+
+        # Sort by date
+        all_days.sort(key=lambda x: x["date"])
+
+        data = {
+            "country": country_code,
+            "city": city_name,
+            "source": source,
+            "method": method,
+            "madhab": madhab,
+            "year": year,
+            "timezone": timezone,
+            "coordinates": {"lat": lat, "lon": lon},
+        }
+
+        if adjustments:
+            data["adjustments"] = adjustments
+        if fajr_angle:
+            data["fajr_angle"] = fajr_angle
+        if isha_angle:
+            data["isha_angle"] = isha_angle
+
+        data["days"] = all_days
+
+        save_yearly_data(country_code, city_name, year, data)
+        total_files += 1
+
+        if clean:
+            cleaned = clean_old_monthly_files(country_code, city_name, year)
+            if cleaned:
+                print(f"(cleaned {cleaned} monthly)", end=" ")
+
+        print(f"OK ({len(all_days)} days)")
 
     return total_files
 
@@ -173,9 +200,8 @@ def scrape_country(country_code, country_info, year, months=None):
 def main():
     year = int(sys.argv[1]) if len(sys.argv) > 1 else datetime.now().year
     # Optional: filter countries
-    country_filter = sys.argv[2].split(",") if len(sys.argv) > 2 else None
-    # Optional: filter months (1-12)
-    months = list(range(1, 13))
+    country_filter = sys.argv[2].split(",") if len(sys.argv) > 2 and not sys.argv[2].startswith("--") else None
+    clean = "--clean" in sys.argv
 
     countries = load_cities()
     if country_filter:
@@ -186,13 +212,14 @@ def main():
         return
 
     print(f"\n{'='*60}")
-    print(f"  Aladhan Scraper — Year {year}")
+    print(f"  Aladhan Scraper — Year {year} (yearly files)")
     print(f"  Countries: {', '.join(countries.keys())}")
+    print(f"  Clean old monthly: {clean}")
     print(f"{'='*60}")
 
     total = 0
     for code, info in countries.items():
-        total += scrape_country(code, info, year, months)
+        total += scrape_country(code, info, year, clean)
 
     # Update last-updated.json
     meta_dir = DATA_DIR / "_meta"
@@ -212,7 +239,7 @@ def main():
         json.dump(existing, f, indent=2)
 
     print(f"\n{'='*60}")
-    print(f"  Done! {total} files saved for {year}")
+    print(f"  Done! {total} yearly files saved for {year}")
     print(f"{'='*60}")
 
 
