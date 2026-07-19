@@ -1,0 +1,2225 @@
+{
+  "version": 1,
+  "generated_at": "2026-07-10T02:46:45Z",
+  "countries": {
+    "AE": {
+      "cities": {
+        "abu-dhabi": {
+          "districts": [],
+          "lat": 24.4539,
+          "lng": 54.3773
+        },
+        "dubai": {
+          "districts": [],
+          "lat": 25.2048,
+          "lng": 55.2708
+        },
+        "sharjah": {
+          "districts": [],
+          "lat": 25.3463,
+          "lng": 55.4209
+        }
+      }
+    },
+    "AF": {
+      "cities": {
+        "herat": {
+          "districts": [],
+          "lat": 34.343,
+          "lng": 62.1991
+        },
+        "kabul": {
+          "districts": [],
+          "lat": 34.5553,
+          "lng": 69.2075
+        },
+        "kandahar": {
+          "districts": [],
+          "lat": 31.61,
+          "lng": 65.7
+        }
+      }
+    },
+    "AL": {
+      "cities": {
+        "tirana": {
+          "districts": [],
+          "lat": 41.3275,
+          "lng": 19.8187
+        }
+      }
+    },
+    "AT": {
+      "cities": {
+        "vienna": {
+          "districts": [],
+          "lat": 48.2082,
+          "lng": 16.3738
+        }
+      }
+    },
+    "AZ": {
+      "cities": {
+        "baku": {
+          "districts": [],
+          "lat": 40.4093,
+          "lng": 49.8671
+        }
+      }
+    },
+    "BA": {
+      "cities": {
+        "banja-luka": {
+          "districts": [],
+          "lat": 44.7722,
+          "lng": 17.191
+        },
+        "sarajevo": {
+          "districts": [],
+          "lat": 43.8563,
+          "lng": 18.4131
+        }
+      }
+    },
+    "BD": {
+      "cities": {
+        "chittagong": {
+          "districts": [],
+          "lat": 22.3569,
+          "lng": 91.7832
+        },
+        "dhaka": {
+          "districts": [],
+          "lat": 23.8103,
+          "lng": 90.4125
+        },
+        "khulna": {
+          "districts": [],
+          "lat": 22.8456,
+          "lng": 89.5403
+        },
+        "sylhet": {
+          "districts": [],
+          "lat": 24.8949,
+          "lng": 91.8687
+        }
+      }
+    },
+    "BE": {
+      "cities": {
+        "antwerp": {
+          "districts": [],
+          "lat": 51.2194,
+          "lng": 4.4025
+        },
+        "brussels": {
+          "districts": [],
+          "lat": 50.8503,
+          "lng": 4.3517
+        }
+      }
+    },
+    "BF": {
+      "cities": {
+        "ouagadougou": {
+          "districts": [],
+          "lat": 12.3714,
+          "lng": -1.5197
+        }
+      }
+    },
+    "BH": {
+      "cities": {
+        "manama": {
+          "districts": [],
+          "lat": 26.2285,
+          "lng": 50.586
+        }
+      }
+    },
+    "BN": {
+      "cities": {
+        "bandar-seri-begawan": {
+          "districts": [],
+          "lat": 4.9031,
+          "lng": 114.9398
+        }
+      }
+    },
+    "CA": {
+      "cities": {
+        "montreal": {
+          "districts": [],
+          "lat": 45.5017,
+          "lng": -73.5673
+        },
+        "toronto": {
+          "districts": [],
+          "lat": 43.6532,
+          "lng": -79.3832
+        },
+        "vancouver": {
+          "districts": [],
+          "lat": 49.2827,
+          "lng": -123.1207
+        }
+      }
+    },
+    "CH": {
+      "cities": {
+        "geneva": {
+          "districts": [],
+          "lat": 46.2044,
+          "lng": 6.1432
+        },
+        "zurich": {
+          "districts": [],
+          "lat": 47.3769,
+          "lng": 8.5417
+        }
+      }
+    },
+    "CI": {
+      "cities": {
+        "abidjan": {
+          "districts": [],
+          "lat": 5.36,
+          "lng": -4.0083
+        }
+      }
+    },
+    "CY": {
+      "cities": {
+        "kuzey-kibris": {
+          "districts": [
+            "dipkarpaz",
+            "gazi-magosa",
+            "girne",
+            "guzelyurt",
+            "iskeletrikomo",
+            "larnaka",
+            "lefke",
+            "lefkosa",
+            "lemesos",
+            "paphos",
+            "pile"
+          ]
+        }
+      }
+    },
+    "DE": {
+      "cities": {
+        "berlin": {
+          "districts": [],
+          "lat": 52.52,
+          "lng": 13.405
+        },
+        "cologne": {
+          "districts": [],
+          "lat": 50.9375,
+          "lng": 6.9603
+        },
+        "frankfurt": {
+          "districts": [],
+          "lat": 50.1109,
+          "lng": 8.6821
+        },
+        "hamburg": {
+          "districts": [],
+          "lat": 53.5511,
+          "lng": 9.9937
+        },
+        "munich": {
+          "districts": [],
+          "lat": 48.1351,
+          "lng": 11.582
+        }
+      }
+    },
+    "DJ": {
+      "cities": {
+        "djibouti": {
+          "districts": [],
+          "lat": 11.5721,
+          "lng": 43.1456
+        }
+      }
+    },
+    "DZ": {
+      "cities": {
+        "algiers": {
+          "districts": [],
+          "lat": 36.7538,
+          "lng": 3.0588
+        },
+        "oran": {
+          "districts": [],
+          "lat": 35.6911,
+          "lng": -0.6417
+        }
+      }
+    },
+    "EG": {
+      "cities": {
+        "alexandria": {
+          "districts": [],
+          "lat": 31.2001,
+          "lng": 29.9187
+        },
+        "aswan": {
+          "districts": [],
+          "lat": 24.0889,
+          "lng": 32.8998
+        },
+        "cairo": {
+          "districts": [],
+          "lat": 30.0444,
+          "lng": 31.2357
+        },
+        "giza": {
+          "districts": [],
+          "lat": 30.0131,
+          "lng": 31.2089
+        },
+        "luxor": {
+          "districts": [],
+          "lat": 25.6872,
+          "lng": 32.6396
+        }
+      }
+    },
+    "ES": {
+      "cities": {
+        "barcelona": {
+          "districts": [],
+          "lat": 41.3851,
+          "lng": 2.1734
+        },
+        "madrid": {
+          "districts": [],
+          "lat": 40.4168,
+          "lng": -3.7038
+        }
+      }
+    },
+    "FR": {
+      "cities": {
+        "lille": {
+          "districts": [],
+          "lat": 50.6292,
+          "lng": 3.0573
+        },
+        "lyon": {
+          "districts": [],
+          "lat": 45.764,
+          "lng": 4.8357
+        },
+        "marseille": {
+          "districts": [],
+          "lat": 43.2965,
+          "lng": 5.3698
+        },
+        "paris": {
+          "districts": [],
+          "lat": 48.8566,
+          "lng": 2.3522
+        }
+      }
+    },
+    "GB": {
+      "cities": {
+        "birmingham": {
+          "districts": [],
+          "lat": 52.4862,
+          "lng": -1.8904
+        },
+        "bradford": {
+          "districts": [],
+          "lat": 53.7953,
+          "lng": -1.7594
+        },
+        "london": {
+          "districts": [],
+          "lat": 51.5074,
+          "lng": -0.1278
+        },
+        "manchester": {
+          "districts": [],
+          "lat": 53.4808,
+          "lng": -2.2426
+        }
+      }
+    },
+    "GH": {
+      "cities": {
+        "accra": {
+          "districts": [],
+          "lat": 5.6037,
+          "lng": -0.187
+        }
+      }
+    },
+    "ID": {
+      "cities": {
+        "bandung": {
+          "districts": [],
+          "lat": -6.9175,
+          "lng": 107.6191
+        },
+        "jakarta": {
+          "districts": [],
+          "lat": -6.2088,
+          "lng": 106.8456
+        },
+        "makassar": {
+          "districts": [],
+          "lat": -5.1477,
+          "lng": 119.4327
+        },
+        "medan": {
+          "districts": [],
+          "lat": 3.5952,
+          "lng": 98.6722
+        },
+        "surabaya": {
+          "districts": [],
+          "lat": -7.2575,
+          "lng": 112.7521
+        }
+      }
+    },
+    "IN": {
+      "cities": {
+        "chennai": {
+          "districts": [],
+          "lat": 13.0827,
+          "lng": 80.2707
+        },
+        "hyderabad": {
+          "districts": [],
+          "lat": 17.385,
+          "lng": 78.4867
+        },
+        "kolkata": {
+          "districts": [],
+          "lat": 22.5726,
+          "lng": 88.3639
+        },
+        "mumbai": {
+          "districts": [],
+          "lat": 19.076,
+          "lng": 72.8777
+        },
+        "new-delhi": {
+          "districts": [],
+          "lat": 28.6139,
+          "lng": 77.209
+        }
+      }
+    },
+    "IQ": {
+      "cities": {
+        "baghdad": {
+          "districts": [],
+          "lat": 33.3152,
+          "lng": 44.3661
+        },
+        "basra": {
+          "districts": [],
+          "lat": 30.5085,
+          "lng": 47.7804
+        },
+        "mosul": {
+          "districts": [],
+          "lat": 36.345,
+          "lng": 43.145
+        }
+      }
+    },
+    "IR": {
+      "cities": {
+        "isfahan": {
+          "districts": [],
+          "lat": 32.6539,
+          "lng": 51.666
+        },
+        "mashhad": {
+          "districts": [],
+          "lat": 36.2605,
+          "lng": 59.6168
+        },
+        "shiraz": {
+          "districts": [],
+          "lat": 29.5918,
+          "lng": 52.5837
+        },
+        "tabriz": {
+          "districts": [],
+          "lat": 38.08,
+          "lng": 46.2919
+        },
+        "tehran": {
+          "districts": [],
+          "lat": 35.6892,
+          "lng": 51.389
+        }
+      }
+    },
+    "JO": {
+      "cities": {
+        "amman": {
+          "districts": [],
+          "lat": 31.9454,
+          "lng": 35.9284
+        },
+        "zarqa": {
+          "districts": [],
+          "lat": 32.0728,
+          "lng": 36.1883
+        }
+      }
+    },
+    "KE": {
+      "cities": {
+        "nairobi": {
+          "districts": [],
+          "lat": -1.2921,
+          "lng": 36.8219
+        }
+      }
+    },
+    "KG": {
+      "cities": {
+        "bishkek": {
+          "districts": [],
+          "lat": 42.8746,
+          "lng": 74.5698
+        }
+      }
+    },
+    "KM": {
+      "cities": {
+        "moroni": {
+          "districts": [],
+          "lat": -11.7172,
+          "lng": 43.2473
+        }
+      }
+    },
+    "KW": {
+      "cities": {
+        "kuwait-city": {
+          "districts": [],
+          "lat": 29.3759,
+          "lng": 47.9774
+        }
+      }
+    },
+    "KZ": {
+      "cities": {
+        "almaty": {
+          "districts": [],
+          "lat": 43.222,
+          "lng": 76.8512
+        },
+        "astana": {
+          "districts": [],
+          "lat": 51.1605,
+          "lng": 71.4704
+        }
+      }
+    },
+    "LB": {
+      "cities": {
+        "beirut": {
+          "districts": [],
+          "lat": 33.8938,
+          "lng": 35.5018
+        },
+        "tripoli": {
+          "districts": [],
+          "lat": 34.4367,
+          "lng": 35.8497
+        }
+      }
+    },
+    "LY": {
+      "cities": {
+        "benghazi": {
+          "districts": [],
+          "lat": 32.1283,
+          "lng": 20.0683
+        },
+        "tripoli": {
+          "districts": [],
+          "lat": 32.8872,
+          "lng": 13.1913
+        }
+      }
+    },
+    "MA": {
+      "cities": {
+        "casablanca": {
+          "districts": [],
+          "lat": 33.5731,
+          "lng": -7.5898
+        },
+        "fes": {
+          "districts": [],
+          "lat": 34.0181,
+          "lng": -5.0078
+        },
+        "marrakech": {
+          "districts": [],
+          "lat": 31.6295,
+          "lng": -7.9811
+        },
+        "rabat": {
+          "districts": [],
+          "lat": 34.0209,
+          "lng": -6.8416
+        }
+      }
+    },
+    "MK": {
+      "cities": {
+        "skopje": {
+          "districts": [],
+          "lat": 41.9981,
+          "lng": 21.4394
+        }
+      }
+    },
+    "ML": {
+      "cities": {
+        "bamako": {
+          "districts": [],
+          "lat": 12.6392,
+          "lng": -8.0029
+        }
+      }
+    },
+    "MR": {
+      "cities": {
+        "nouakchott": {
+          "districts": [],
+          "lat": 18.0735,
+          "lng": -15.9582
+        }
+      }
+    },
+    "MU": {
+      "cities": {
+        "port-louis": {
+          "districts": [],
+          "lat": -20.1609,
+          "lng": 57.5012
+        }
+      }
+    },
+    "MY": {
+      "cities": {
+        "johor-bahru": {
+          "districts": [],
+          "lat": 1.4927,
+          "lng": 103.7414
+        },
+        "kota-kinabalu": {
+          "districts": [],
+          "lat": 5.9788,
+          "lng": 116.0753
+        },
+        "kuala-lumpur": {
+          "districts": [],
+          "lat": 3.139,
+          "lng": 101.6869
+        },
+        "penang": {
+          "districts": [],
+          "lat": 5.4141,
+          "lng": 100.3288
+        },
+        "putrajaya": {
+          "districts": [],
+          "lat": 2.9264,
+          "lng": 101.6964
+        }
+      }
+    },
+    "NE": {
+      "cities": {
+        "niamey": {
+          "districts": [],
+          "lat": 13.5117,
+          "lng": 2.1251
+        }
+      }
+    },
+    "NG": {
+      "cities": {
+        "abuja": {
+          "districts": [],
+          "lat": 9.0765,
+          "lng": 7.3986
+        },
+        "kano": {
+          "districts": [],
+          "lat": 12.0022,
+          "lng": 8.592
+        },
+        "lagos": {
+          "districts": [],
+          "lat": 6.5244,
+          "lng": 3.3792
+        }
+      }
+    },
+    "NL": {
+      "cities": {
+        "amsterdam": {
+          "districts": [],
+          "lat": 52.3676,
+          "lng": 4.9041
+        },
+        "rotterdam": {
+          "districts": [],
+          "lat": 51.9244,
+          "lng": 4.4777
+        },
+        "the-hague": {
+          "districts": [],
+          "lat": 52.0705,
+          "lng": 4.3007
+        }
+      }
+    },
+    "NP": {
+      "cities": {
+        "kathmandu": {
+          "districts": [],
+          "lat": 27.7172,
+          "lng": 85.324
+        }
+      }
+    },
+    "OM": {
+      "cities": {
+        "muscat": {
+          "districts": [],
+          "lat": 23.588,
+          "lng": 58.3829
+        }
+      }
+    },
+    "PK": {
+      "cities": {
+        "islamabad": {
+          "districts": [],
+          "lat": 33.6844,
+          "lng": 73.0479
+        },
+        "karachi": {
+          "districts": [],
+          "lat": 24.8607,
+          "lng": 67.0011
+        },
+        "lahore": {
+          "districts": [],
+          "lat": 31.5204,
+          "lng": 74.3587
+        },
+        "multan": {
+          "districts": [],
+          "lat": 30.1575,
+          "lng": 71.5249
+        },
+        "peshawar": {
+          "districts": [],
+          "lat": 34.0151,
+          "lng": 71.5249
+        }
+      }
+    },
+    "PS": {
+      "cities": {
+        "gaza": {
+          "districts": [],
+          "lat": 31.5017,
+          "lng": 34.4668
+        },
+        "hebron": {
+          "districts": [],
+          "lat": 31.5232,
+          "lng": 35.0942
+        }
+      }
+    },
+    "QA": {
+      "cities": {
+        "doha": {
+          "districts": [],
+          "lat": 25.2854,
+          "lng": 51.531
+        }
+      }
+    },
+    "RU": {
+      "cities": {
+        "grozny": {
+          "districts": [],
+          "lat": 43.3172,
+          "lng": 45.6983
+        },
+        "kazan": {
+          "districts": [],
+          "lat": 55.8304,
+          "lng": 49.0661
+        },
+        "moscow": {
+          "districts": [],
+          "lat": 55.7558,
+          "lng": 37.6173
+        }
+      }
+    },
+    "SA": {
+      "cities": {
+        "dammam": {
+          "districts": [],
+          "lat": 26.4207,
+          "lng": 50.0888
+        },
+        "jeddah": {
+          "districts": [],
+          "lat": 21.4858,
+          "lng": 39.1925
+        },
+        "madinah": {
+          "districts": [],
+          "lat": 24.5247,
+          "lng": 39.5692
+        },
+        "makkah": {
+          "districts": [],
+          "lat": 21.3891,
+          "lng": 39.8579
+        },
+        "riyadh": {
+          "districts": [],
+          "lat": 24.7136,
+          "lng": 46.6753
+        }
+      }
+    },
+    "SD": {
+      "cities": {
+        "khartoum": {
+          "districts": [],
+          "lat": 15.5007,
+          "lng": 32.5599
+        }
+      }
+    },
+    "SG": {
+      "cities": {
+        "singapore": {
+          "districts": [],
+          "lat": 1.3521,
+          "lng": 103.8198
+        }
+      }
+    },
+    "SN": {
+      "cities": {
+        "dakar": {
+          "districts": [],
+          "lat": 14.7167,
+          "lng": -17.4677
+        }
+      }
+    },
+    "SO": {
+      "cities": {
+        "hargeisa": {
+          "districts": [],
+          "lat": 9.5604,
+          "lng": 44.065
+        },
+        "mogadishu": {
+          "districts": [],
+          "lat": 2.0469,
+          "lng": 45.3182
+        }
+      }
+    },
+    "SY": {
+      "cities": {
+        "aleppo": {
+          "districts": [],
+          "lat": 36.2021,
+          "lng": 37.1343
+        },
+        "damascus": {
+          "districts": [],
+          "lat": 33.5138,
+          "lng": 36.2765
+        }
+      }
+    },
+    "TD": {
+      "cities": {
+        "ndjamena": {
+          "districts": [],
+          "lat": 12.1348,
+          "lng": 15.0557
+        }
+      }
+    },
+    "TJ": {
+      "cities": {
+        "dushanbe": {
+          "districts": [],
+          "lat": 38.5598,
+          "lng": 68.787
+        }
+      }
+    },
+    "TM": {
+      "cities": {
+        "ashgabat": {
+          "districts": [],
+          "lat": 37.9601,
+          "lng": 58.3261
+        }
+      }
+    },
+    "TN": {
+      "cities": {
+        "sfax": {
+          "districts": [],
+          "lat": 34.7406,
+          "lng": 10.7597
+        },
+        "tunis": {
+          "districts": [],
+          "lat": 36.8065,
+          "lng": 10.1815
+        }
+      }
+    },
+    "TR": {
+      "cities": {
+        "adana": {
+          "districts": [
+            "adana",
+            "aladag",
+            "ceyhan",
+            "feke",
+            "imamoglu",
+            "karaisali",
+            "karatas",
+            "kozan",
+            "pozanti",
+            "saimbeyli",
+            "tufanbeyli",
+            "yumurtalik"
+          ]
+        },
+        "adiyaman": {
+          "districts": [
+            "adiyaman",
+            "besni",
+            "celikhan",
+            "gerger",
+            "golbasi",
+            "kahta",
+            "samsat",
+            "sincik",
+            "tut"
+          ]
+        },
+        "afyonkarahisar": {
+          "districts": [
+            "afyonkarahisar",
+            "basmakci",
+            "bayat",
+            "bolvadin",
+            "cay",
+            "cobanlar",
+            "dazkiri",
+            "dinar",
+            "emirdag",
+            "evciler",
+            "hocalar",
+            "ihsaniye",
+            "iscehisar",
+            "kiziloren",
+            "sandikli",
+            "sinanpasa",
+            "suhut",
+            "sultandagi"
+          ]
+        },
+        "agri": {
+          "districts": [
+            "agri",
+            "diyadin",
+            "dogubeyazit",
+            "eleskirt",
+            "patnos",
+            "taslicay",
+            "tutak"
+          ]
+        },
+        "aksaray": {
+          "districts": [
+            "agacoren",
+            "aksaray",
+            "eskil",
+            "gulagac",
+            "guzelyurt",
+            "ortakuy",
+            "ortaköy",
+            "sariyahsi",
+            "sultanhani"
+          ]
+        },
+        "amasya": {
+          "districts": [
+            "amasya",
+            "goynucek",
+            "gumushacikoy",
+            "hamamozu",
+            "merzifon",
+            "suluova",
+            "tasova"
+          ]
+        },
+        "ankara": {
+          "districts": [
+            "akyurt",
+            "ankara",
+            "ayas",
+            "bala",
+            "beypazari",
+            "camlidere",
+            "cubuk",
+            "elmadag",
+            "evren",
+            "gudul",
+            "haymana",
+            "kahramankazan",
+            "kalecik",
+            "kizilcahamam",
+            "nallihan",
+            "polatli",
+            "sereflikochisar"
+          ]
+        },
+        "antalya": {
+          "districts": [
+            "akseki",
+            "aksu",
+            "alanya",
+            "antalya",
+            "demre",
+            "elmali",
+            "finike",
+            "gazipasa",
+            "gundogmus",
+            "ibradi",
+            "kas",
+            "kemer",
+            "korkuteli",
+            "kumluca",
+            "manavgat",
+            "serik"
+          ]
+        },
+        "ardahan": {
+          "districts": [
+            "ardahan",
+            "cildir",
+            "damal",
+            "gole",
+            "hanak",
+            "posof"
+          ]
+        },
+        "artvin": {
+          "districts": [
+            "ardanuc",
+            "arhavi",
+            "artvin",
+            "borcka",
+            "hopa",
+            "kemalpasa",
+            "murgul",
+            "savsat",
+            "yusufeli"
+          ]
+        },
+        "aydin": {
+          "districts": [
+            "aydin",
+            "bozdogan",
+            "buharkent",
+            "cine",
+            "didim",
+            "germencik",
+            "incirliova",
+            "karacasu",
+            "karpuzlu",
+            "kocarli",
+            "kosk",
+            "koşk",
+            "kusadasi",
+            "kuyucak",
+            "nazilli",
+            "soke",
+            "sultanhisar",
+            "yenipazar-a",
+            "çine"
+          ]
+        },
+        "balikesir": {
+          "districts": [
+            "ayvalik",
+            "balikesir",
+            "balya",
+            "bandirma",
+            "bigadic",
+            "burhaniye",
+            "dursunbey",
+            "edremit",
+            "erdek",
+            "gomec",
+            "gonen",
+            "havran",
+            "ivrindi",
+            "kepsut",
+            "manyas",
+            "marmara",
+            "savastepe",
+            "sindirgi",
+            "susurluk"
+          ]
+        },
+        "bartin": {
+          "districts": [
+            "bartin",
+            "kurucasile",
+            "ulus"
+          ]
+        },
+        "batman": {
+          "districts": [
+            "batman",
+            "besiri",
+            "gercus",
+            "hasankeyf",
+            "kozluk",
+            "sason"
+          ]
+        },
+        "bayburt": {
+          "districts": [
+            "aydintepe",
+            "bayburt",
+            "demirozu"
+          ]
+        },
+        "bilecik": {
+          "districts": [
+            "bilecik",
+            "bozuyuk",
+            "golpazari",
+            "inhisar",
+            "osmaneli",
+            "pazaryeri",
+            "sogut",
+            "yenipazar"
+          ]
+        },
+        "bingul": {
+          "districts": [
+            "adakli",
+            "bingol",
+            "karliova",
+            "kigi",
+            "solhan",
+            "yayladere",
+            "yedisu"
+          ]
+        },
+        "bitlis": {
+          "districts": [
+            "adilcevaz",
+            "ahlat",
+            "bitlis",
+            "guroymak",
+            "hizan",
+            "mutki",
+            "tatvan"
+          ]
+        },
+        "bolu": {
+          "districts": [
+            "bolu",
+            "dortdivan",
+            "gerede",
+            "goynuk",
+            "kibriscik",
+            "mengen",
+            "mudurnu",
+            "seben",
+            "yenicaga"
+          ]
+        },
+        "burdur": {
+          "districts": [
+            "aglasun",
+            "altinyayla",
+            "bucak",
+            "burdur",
+            "cavdir",
+            "celtikci",
+            "golhisar",
+            "karamanli",
+            "kemer-b",
+            "tefenni",
+            "yesilova"
+          ]
+        },
+        "bursa": {
+          "districts": [
+            "bursa",
+            "buyuk-orhan",
+            "gemlik",
+            "harmancik",
+            "inegol",
+            "iznik",
+            "karacabey",
+            "keles",
+            "kestel",
+            "mudanya",
+            "mustafa-kemalpasa",
+            "orhaneli",
+            "orhaneli̇",
+            "orhangazi",
+            "yenisehir"
+          ]
+        },
+        "canakkale": {
+          "districts": [
+            "ayvacik",
+            "bayramic",
+            "biga",
+            "bozcaada",
+            "can",
+            "canakkale",
+            "ezine",
+            "gelibolu",
+            "gokceada",
+            "lapseki",
+            "yenice"
+          ]
+        },
+        "cankiri": {
+          "districts": [
+            "atkaracalar",
+            "bayramoren",
+            "cankiri",
+            "cerkes",
+            "ilgaz",
+            "kizilirmak",
+            "kursunlu",
+            "orta",
+            "sabanozu",
+            "yaprakli"
+          ]
+        },
+        "corum": {
+          "districts": [
+            "alaca",
+            "bayat",
+            "bogazkale",
+            "corum",
+            "dodurga",
+            "iskilip",
+            "kargi",
+            "lacin",
+            "mecitozu",
+            "oguzlar",
+            "ortakoy",
+            "osmancik",
+            "sungurlu",
+            "ugurludag"
+          ]
+        },
+        "denizli": {
+          "districts": [
+            "acipayam",
+            "babadag",
+            "baklan",
+            "bekilli",
+            "beyagac",
+            "bozkurt",
+            "buldan",
+            "cal",
+            "cameli",
+            "cardak",
+            "civril",
+            "denizli",
+            "guney",
+            "honaz",
+            "kale",
+            "saraykoy",
+            "serinhisar",
+            "tavas"
+          ]
+        },
+        "diyarbakir": {
+          "districts": [
+            "bismil",
+            "cermik",
+            "cinar",
+            "cungus",
+            "dicle",
+            "diyarbakir",
+            "egil",
+            "ergani",
+            "hani",
+            "hazro",
+            "kocakoy",
+            "kulp",
+            "lice",
+            "silvan"
+          ]
+        },
+        "duzce": {
+          "districts": [
+            "akcakoca",
+            "cilimli",
+            "cumayeri",
+            "duzce",
+            "golyaka",
+            "gumusova",
+            "kaynasli",
+            "yigilca"
+          ]
+        },
+        "edirne": {
+          "districts": [
+            "edirne",
+            "enez",
+            "havsa",
+            "ipsala",
+            "kesan",
+            "lalapasa",
+            "meric",
+            "suloglu",
+            "uzunkopru"
+          ]
+        },
+        "elazig": {
+          "districts": [
+            "agin",
+            "alacakaya",
+            "aricak",
+            "baskil",
+            "elazig",
+            "karakocan",
+            "keban",
+            "kovancilar",
+            "maden",
+            "palu",
+            "sivrice"
+          ]
+        },
+        "erzincan": {
+          "districts": [
+            "cayirli",
+            "erzincan",
+            "ilic",
+            "kemah",
+            "kemaliye",
+            "otlukbeli",
+            "refahiye",
+            "tercan",
+            "uzumlu"
+          ]
+        },
+        "erzurum": {
+          "districts": [
+            "askale",
+            "aziziye",
+            "cat",
+            "erzurum",
+            "hinis",
+            "horasan",
+            "ispir",
+            "karacoban",
+            "karayazi",
+            "koprukoy",
+            "narman",
+            "oltu",
+            "olur",
+            "pasinler",
+            "pazaryolu",
+            "senkaya",
+            "tekman",
+            "tortum",
+            "uzundere"
+          ]
+        },
+        "eskisehir": {
+          "districts": [
+            "alpu",
+            "beylikova",
+            "cifteler",
+            "eskisehir",
+            "gunyuzu",
+            "han",
+            "inonu",
+            "mahmudiye",
+            "mihalgazi",
+            "mihaliccik",
+            "saricakaya",
+            "seyitgazi",
+            "sivrihisar"
+          ]
+        },
+        "gaziantep": {
+          "districts": [
+            "araban",
+            "gaziantep",
+            "islahiye",
+            "karkamis",
+            "nizip",
+            "nurdagi",
+            "oguzeli",
+            "yavuzeli"
+          ]
+        },
+        "giresun": {
+          "districts": [
+            "alucra",
+            "bulancak",
+            "camoluk",
+            "canakci",
+            "dereli",
+            "dogankent",
+            "espiye",
+            "eynesil",
+            "giresun",
+            "gorele",
+            "guce",
+            "kesap",
+            "piraziz",
+            "sebinkarahisar",
+            "tirebolu",
+            "yaglidere"
+          ]
+        },
+        "gumushane": {
+          "districts": [
+            "gumushane",
+            "kelkit",
+            "kose",
+            "kurtun",
+            "siran",
+            "torul"
+          ]
+        },
+        "hakkari": {
+          "districts": [
+            "cukurca",
+            "derecik",
+            "hakkari",
+            "semdinli",
+            "yuksekova"
+          ]
+        },
+        "hatay": {
+          "districts": [
+            "altinuzu",
+            "altinözü",
+            "arsuz",
+            "belen",
+            "dortyol",
+            "erzin",
+            "hassa",
+            "hatay",
+            "iskenderun",
+            "kirikhan",
+            "kumlu",
+            "payas",
+            "reyhanli",
+            "samandag",
+            "yayladagi"
+          ]
+        },
+        "igdir": {
+          "districts": [
+            "aralik",
+            "igdir",
+            "karakoyunlu",
+            "tuzluca"
+          ]
+        },
+        "isparta": {
+          "districts": [
+            "aksu-i",
+            "atabey",
+            "egirdir",
+            "gelendost",
+            "gunen",
+            "gönen",
+            "isparta",
+            "keciborlu",
+            "sarki-karaagac",
+            "senirkent",
+            "seni̇rkent",
+            "sutculer",
+            "uluborlu",
+            "yalvac",
+            "yenisar-bademli"
+          ]
+        },
+        "istanbul": {
+          "districts": [
+            "arnavutkoy",
+            "avcilar",
+            "basaksehir",
+            "beylikduzu",
+            "buyukcekmece",
+            "catalca",
+            "cekmekoy",
+            "esenyurt",
+            "istanbul",
+            "kartal",
+            "kucukcekmece",
+            "maltepe",
+            "pendik",
+            "sancaktepe",
+            "sile",
+            "silivri",
+            "sultanbeyli",
+            "sultangazi",
+            "tuzla"
+          ]
+        },
+        "izmir": {
+          "districts": [
+            "aliaga",
+            "bayindir",
+            "bergama",
+            "beydag",
+            "cesme",
+            "dikili",
+            "foca",
+            "guzelbahce",
+            "izmir",
+            "karaburun",
+            "kemalpasa",
+            "kinik",
+            "kiraz",
+            "menderes",
+            "menemen",
+            "odemis",
+            "seferihisar",
+            "selcuk",
+            "tire",
+            "torbali",
+            "urla"
+          ]
+        },
+        "kahramanmaras": {
+          "districts": [
+            "afsin",
+            "andirin",
+            "caglayancerit",
+            "ekinuzu",
+            "elbistan",
+            "guksun",
+            "kahramanmaras",
+            "nurhak",
+            "pazarcik",
+            "turkoglu"
+          ]
+        },
+        "karabuk": {
+          "districts": [
+            "eflani",
+            "eskipazar",
+            "karabuk",
+            "ovacik-k",
+            "yenice-k"
+          ]
+        },
+        "karaman": {
+          "districts": [
+            "ayranci",
+            "basyayla",
+            "ermenek",
+            "karaman",
+            "kazimkarabekir",
+            "sariveliler"
+          ]
+        },
+        "kars": {
+          "districts": [
+            "akyaka",
+            "arpacay",
+            "digor",
+            "kagizman",
+            "kars",
+            "sarikamis",
+            "selim",
+            "susuz"
+          ]
+        },
+        "kastamonu": {
+          "districts": [
+            "abana",
+            "agli",
+            "arac",
+            "azdavay",
+            "bozkurt-k",
+            "catalzeytin",
+            "cide",
+            "daday",
+            "devrekani",
+            "devrekani̇",
+            "doganyurt",
+            "hanonu",
+            "ihsangazi",
+            "inebolu",
+            "kastamonu",
+            "kure",
+            "pinarbasi-k",
+            "senpazar",
+            "seydiler",
+            "seydi̇ler",
+            "taskopru",
+            "tosya"
+          ]
+        },
+        "kayseri": {
+          "districts": [
+            "akkisla",
+            "bunyan",
+            "develi",
+            "felahiye",
+            "incesu",
+            "kayseri",
+            "ozvatan",
+            "pinarbasi",
+            "sarioglan",
+            "sariz",
+            "tomarza",
+            "yahyali",
+            "yesilhisar"
+          ]
+        },
+        "kilis": {
+          "districts": [
+            "elbeyli",
+            "kilis",
+            "musabeyli",
+            "polateli"
+          ]
+        },
+        "kirikkale": {
+          "districts": [
+            "baliseyh",
+            "celebi",
+            "delice",
+            "karakecili",
+            "keskin",
+            "keski̇n",
+            "kirikkale",
+            "sulakyurt"
+          ]
+        },
+        "kirklareli": {
+          "districts": [
+            "babaeski",
+            "demirkoy",
+            "kirklareli",
+            "luleburgaz",
+            "pehlivankoy",
+            "pinarhisar",
+            "vize"
+          ]
+        },
+        "kirsehir": {
+          "districts": [
+            "akcakent",
+            "akpinar",
+            "cicekdagi",
+            "kaman",
+            "kirsehir",
+            "mucur"
+          ]
+        },
+        "kocaeli": {
+          "districts": [
+            "cayirova",
+            "darica",
+            "dilovasi",
+            "gebze",
+            "kandira",
+            "karamursel",
+            "kartepe",
+            "kocaeli",
+            "korfez"
+          ]
+        },
+        "konya": {
+          "districts": [
+            "ahirli",
+            "akoren",
+            "aksehir",
+            "altinekin",
+            "beysehir",
+            "bozkir",
+            "celtik",
+            "cihanbeyli",
+            "cumra",
+            "derbent",
+            "derebucak",
+            "doganhisar",
+            "emirgazi",
+            "eregli",
+            "guneysinir",
+            "hadim",
+            "halkapinar",
+            "huyuk",
+            "ilgin",
+            "kadinhani",
+            "karapinar",
+            "karatay",
+            "konya",
+            "kulu",
+            "meram",
+            "sarayunu",
+            "sarayönü",
+            "selcuklu",
+            "selçuklu",
+            "seydisehir",
+            "taskent",
+            "taşkent",
+            "tuzlukcu",
+            "yalihuyuk",
+            "yunak"
+          ]
+        },
+        "kutahya": {
+          "districts": [
+            "altintas",
+            "aslanapa",
+            "cavdarhisar",
+            "domanic",
+            "dumlupinar",
+            "emet",
+            "gediz",
+            "hisarcik",
+            "kutahya",
+            "pazarlar",
+            "saphane",
+            "simav",
+            "tavsanli"
+          ]
+        },
+        "malatya": {
+          "districts": [
+            "akcadag",
+            "arapgir",
+            "arguvan",
+            "darende",
+            "dogansehir",
+            "doganyol",
+            "hekimhan",
+            "kale-m",
+            "kuluncak",
+            "malatya",
+            "puturge",
+            "yazihan",
+            "yesilyurt"
+          ]
+        },
+        "manisa": {
+          "districts": [
+            "ahmetli",
+            "akhisar",
+            "alasehir",
+            "demirci",
+            "golmarmara",
+            "gordes",
+            "kirkagac",
+            "koprubasi",
+            "kula",
+            "manisa",
+            "salihli",
+            "sarigol",
+            "saruhanli",
+            "selendi",
+            "soma",
+            "turgutlu"
+          ]
+        },
+        "mardin": {
+          "districts": [
+            "dargecit",
+            "derik",
+            "kiziltepe",
+            "mardin",
+            "mazidagi",
+            "midyat",
+            "nusaybin",
+            "omerli",
+            "savur"
+          ]
+        },
+        "mersin": {
+          "districts": [
+            "anamur",
+            "aydincik",
+            "bozyazi",
+            "camliyayla",
+            "erdemli",
+            "gulnar",
+            "mersin",
+            "mut",
+            "silifke",
+            "tarsus"
+          ]
+        },
+        "mugla": {
+          "districts": [
+            "bodrum",
+            "dalaman",
+            "datca",
+            "fethiye",
+            "koycegiz",
+            "marmaris",
+            "milas",
+            "mugla",
+            "ortaca",
+            "seydikemer",
+            "ula",
+            "yatagan"
+          ]
+        },
+        "mus": {
+          "districts": [
+            "bulanik",
+            "haskoy",
+            "korkut",
+            "malazgirt",
+            "mus",
+            "varto"
+          ]
+        },
+        "nevsehir": {
+          "districts": [
+            "acigol",
+            "avanos",
+            "hacibektas",
+            "kozakli",
+            "nevsehir",
+            "urgup"
+          ]
+        },
+        "nigde": {
+          "districts": [
+            "altunhisar",
+            "bor",
+            "camardi",
+            "ciftlik",
+            "nigde",
+            "ulukisla"
+          ]
+        },
+        "ordu": {
+          "districts": [
+            "akkus",
+            "aybasti",
+            "camas",
+            "catalpinar",
+            "caybasi",
+            "fatsa",
+            "golkoy",
+            "gulyali",
+            "gurgentepe",
+            "ikizce",
+            "kabatas",
+            "korgan",
+            "kumru",
+            "mesudiye",
+            "ordu",
+            "unye"
+          ]
+        },
+        "osmaniye": {
+          "districts": [
+            "bahce",
+            "duzici",
+            "hasanbeyli",
+            "kadirli",
+            "osmaniye",
+            "sumbas",
+            "toprakkale"
+          ]
+        },
+        "rize": {
+          "districts": [
+            "ardesen",
+            "camlihemsin",
+            "cayeli",
+            "findikli",
+            "hemsin",
+            "ikizdere",
+            "iyidere",
+            "pazar",
+            "rize"
+          ]
+        },
+        "sakarya": {
+          "districts": [
+            "akyazi",
+            "geyve",
+            "hendek",
+            "karasu",
+            "kaynarca",
+            "kocaali",
+            "pamukova",
+            "sakarya",
+            "tarakli"
+          ]
+        },
+        "samsun": {
+          "districts": [
+            "19-mayis",
+            "alacam",
+            "asarcik",
+            "atakum",
+            "ayvacik-s",
+            "bafra",
+            "carsamba",
+            "havza",
+            "kavak",
+            "ladik",
+            "ladi̇k",
+            "salipazari",
+            "samsun",
+            "tekkekuy",
+            "tekkeköy",
+            "terme",
+            "vezirkupru",
+            "vezi̇rköprü",
+            "yakakent",
+            "çarşamba"
+          ]
+        },
+        "sanliurfa": {
+          "districts": [
+            "akcakale",
+            "birecik",
+            "bozova",
+            "ceylanpinar",
+            "halfeti",
+            "harran",
+            "hilvan",
+            "sanliurfa",
+            "siverek",
+            "suruc",
+            "viransehir"
+          ]
+        },
+        "siirt": {
+          "districts": [
+            "baykan",
+            "eruh",
+            "kurtalan",
+            "pervari",
+            "siirt",
+            "sirvan"
+          ]
+        },
+        "sinop": {
+          "districts": [
+            "ayancik",
+            "boyabat",
+            "dikmen",
+            "duragan",
+            "erfelek",
+            "gerze",
+            "sarayduzu",
+            "sinop",
+            "turkeli"
+          ]
+        },
+        "sirnak": {
+          "districts": [
+            "beytussebap",
+            "cizre",
+            "guclukonak",
+            "idil",
+            "silopi",
+            "sirnak",
+            "uludere"
+          ]
+        },
+        "sivas": {
+          "districts": [
+            "akincilar",
+            "altinyaylas",
+            "divrigi",
+            "dogansar",
+            "gemerek",
+            "golova",
+            "gurun",
+            "hafik",
+            "imranli",
+            "kangal",
+            "koyulhisar",
+            "sarkisla",
+            "sivas",
+            "susehri",
+            "ulas",
+            "yildizeli",
+            "zara"
+          ]
+        },
+        "tekirdag": {
+          "districts": [
+            "cerkezkoy",
+            "corlu",
+            "ergene",
+            "hayrabolu",
+            "kapakli",
+            "m.ereglisi",
+            "malkara",
+            "saray",
+            "sarkoy",
+            "tekirdag"
+          ]
+        },
+        "tokat": {
+          "districts": [
+            "almus",
+            "artova",
+            "basciftlik",
+            "başçi̇ftli̇k",
+            "erbaa",
+            "niksar",
+            "ni̇ksar",
+            "pazar-t",
+            "resadiye",
+            "reşadi̇ye",
+            "sulusaray",
+            "tokat",
+            "turhal",
+            "yesilyurt",
+            "yeşi̇lyurt",
+            "zile",
+            "zi̇le"
+          ]
+        },
+        "trabzon": {
+          "districts": [
+            "akcaabat",
+            "arakli",
+            "arsin",
+            "besikduzu",
+            "carsibasi",
+            "caykara",
+            "dernekpazari",
+            "duzkoy",
+            "hayrat",
+            "koprubasi-t",
+            "of",
+            "salpazari",
+            "surmene",
+            "tonya",
+            "trabzon",
+            "vakfikebir",
+            "yomra"
+          ]
+        },
+        "tunceli": {
+          "districts": [
+            "cemisgezek",
+            "hozat",
+            "nazimiye",
+            "ovacik",
+            "pertek",
+            "pulumur",
+            "tunceli"
+          ]
+        },
+        "usak": {
+          "districts": [
+            "banaz",
+            "esme",
+            "karahalli",
+            "sivasli",
+            "usak"
+          ]
+        },
+        "van": {
+          "districts": [
+            "bahcesaray",
+            "baskale",
+            "caldiran",
+            "catak",
+            "edremit-v",
+            "ercis",
+            "gevas",
+            "gurpinar",
+            "gürpinar",
+            "muradiye",
+            "ozalp",
+            "saray-v",
+            "van"
+          ]
+        },
+        "yalova": {
+          "districts": [
+            "altinova",
+            "armutlu",
+            "cinarcik",
+            "termal",
+            "yalova"
+          ]
+        },
+        "yozgat": {
+          "districts": [
+            "akdagmadeni",
+            "aydincik-y",
+            "bogazliyan",
+            "candir",
+            "cayiralan",
+            "cekerek",
+            "kadisehri",
+            "saraykent",
+            "sarikaya",
+            "sefaatli",
+            "sorgun",
+            "yenifakili",
+            "yerkoy",
+            "yozgat",
+            "şefaatli̇"
+          ]
+        },
+        "zonguldak": {
+          "districts": [
+            "alapli",
+            "caycuma",
+            "devrek",
+            "gokcebey",
+            "karadeniz-eregli",
+            "zonguldak"
+          ]
+        }
+      }
+    },
+    "TZ": {
+      "cities": {
+        "dar-es-salaam": {
+          "districts": [],
+          "lat": -6.7924,
+          "lng": 39.2083
+        }
+      }
+    },
+    "US": {
+      "cities": {
+        "chicago": {
+          "districts": [],
+          "lat": 41.8781,
+          "lng": -87.6298
+        },
+        "detroit": {
+          "districts": [],
+          "lat": 42.3314,
+          "lng": -83.0458
+        },
+        "houston": {
+          "districts": [],
+          "lat": 29.7604,
+          "lng": -95.3698
+        },
+        "los-angeles": {
+          "districts": [],
+          "lat": 34.0522,
+          "lng": -118.2437
+        },
+        "new-york": {
+          "districts": [],
+          "lat": 40.7128,
+          "lng": -74.006
+        }
+      }
+    },
+    "UZ": {
+      "cities": {
+        "samarkand": {
+          "districts": [],
+          "lat": 39.627,
+          "lng": 66.975
+        },
+        "tashkent": {
+          "districts": [],
+          "lat": 41.2995,
+          "lng": 69.2401
+        }
+      }
+    },
+    "XK": {
+      "cities": {
+        "pristina": {
+          "districts": [],
+          "lat": 42.6629,
+          "lng": 21.1655
+        }
+      }
+    },
+    "YE": {
+      "cities": {
+        "aden": {
+          "districts": [],
+          "lat": 12.7794,
+          "lng": 45.0367
+        },
+        "sanaa": {
+          "districts": [],
+          "lat": 15.3694,
+          "lng": 44.191
+        }
+      }
+    },
+    "ZA": {
+      "cities": {
+        "cape-town": {
+          "districts": [],
+          "lat": -33.9249,
+          "lng": 18.4241
+        },
+        "durban": {
+          "districts": [],
+          "lat": -29.8587,
+          "lng": 31.0218
+        },
+        "johannesburg": {
+          "districts": [],
+          "lat": -26.2041,
+          "lng": 28.0473
+        }
+      }
+    }
+  }
+}
