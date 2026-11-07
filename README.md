@@ -1,17 +1,17 @@
 # Seccadem Data
 
-Offline prayer times data for 65+ Islamic countries, sourced from Diyanet (Turkey), Aladhan, JAKIM (Malaysia), and Kemenag (Indonesia).
+Offline prayer times data used by the Seccadem app for 65+ countries. Data comes from third-party sources (Diyanet, AlAdhan, JAKIM, Kemenag) and is **not** licensed by Seccadem; see [DATA-LICENSE.md](DATA-LICENSE.md).
 
 ## Usage
 
 ### Raw GitHub URL
 ```
-https://raw.githubusercontent.com/seccadem/seccadem-data/main/v1/TR/istanbul/2026-07.json
+https://raw.githubusercontent.com/hudaiapa88/seccadem-data/main/v1/TR/istanbul/2026-07.json
 ```
 
 ### jsDelivr CDN (faster, cached)
 ```
-https://cdn.jsdelivr.net/gh/seccadem/seccadem-data@main/v1/TR/istanbul/2026-07.json
+https://cdn.jsdelivr.net/gh/hudaiapa88/seccadem-data@main/v1/TR/istanbul/2026-07.json
 ```
 
 ## Schema
@@ -61,4 +61,5 @@ This data covers Islamic countries that speak the 14 languages supported by the 
 
 ## License
 
-MIT
+- Code (`scripts/`, `schema.json`): MIT, see [LICENSE](LICENSE).
+- Data: see [DATA-LICENSE.md](DATA-LICENSE.md). Third-party prayer time files are not licensed by Seccadem and are being phased out in favour of on-device calculation.

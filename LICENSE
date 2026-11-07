@@ -1,6 +1,10 @@
-MIT License
+MIT License (code only)
 
 Copyright (c) 2026 Seccadem
+
+This license applies ONLY to the source code in this repository: the files
+under `scripts/`, and `schema.json`. It does NOT apply to the data files.
+See DATA-LICENSE.md for the terms that apply to each data set.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
