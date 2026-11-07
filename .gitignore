@@ -10,3 +10,6 @@ Thumbs.db
 # Temp
 *.tmp
 *.log
+
+# Quran pipeline download cache
+build/

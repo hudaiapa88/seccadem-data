@@ -1,0 +1,74 @@
+{
+  "format": 1,
+  "algorithm": "sha256",
+  "files": {
+    "quran_uthmani.json.gz": {
+      "sha256": "020265069e463de981595d8988e3e7817d43944e6a0e208e3fcbbfdf55cb4ffd",
+      "bytes": 268130
+    },
+    "quran_search.json.gz": {
+      "sha256": "19c6694f875d006d2c63207a8b25b29cedb26e99b744244157dc81226eec9346",
+      "bytes": 188498
+    },
+    "quran_meta.json": {
+      "sha256": "a2f45a134c8c9d1888b111dafded8a7b5a60d5dba0c60372f8dd7fae6bbf3346",
+      "bytes": 84729
+    },
+    "translations/bengali_zakaria.json.gz": {
+      "sha256": "e44bee5adcf2257462965a0815c41776c8a7549ee81d6b592986d061ddd1df2a",
+      "bytes": 2432747
+    },
+    "translations/dutch_center.json.gz": {
+      "sha256": "abda314132cc910baf9b0dd735e176c84382dcc9349ddbc7a1a2f36dedb3f1d2",
+      "bytes": 333816
+    },
+    "translations/english_rwwad.json.gz": {
+      "sha256": "a495be4bd11aec3a01797a227598c4a9a095ef8b8c9f9bce1a38940b7ca9e3b5",
+      "bytes": 359041
+    },
+    "translations/french_montada.json.gz": {
+      "sha256": "eda7543b24d5d1552ef21b1ae8651a630f555c2a2c82ab4e53953cf6a18d2e2f",
+      "bytes": 374852
+    },
+    "translations/german_rwwad.json.gz": {
+      "sha256": "02b0409f19823460c1822c4967b1bee7b712bdd38db483dfbd4bc6f77b5c5271",
+      "bytes": 314447
+    },
+    "translations/hindi_omari.json.gz": {
+      "sha256": "f99e3234f71c6f8e7b3e4f95d3516293222b853c78c0adf17ef02b37252ac82d",
+      "bytes": 573798
+    },
+    "translations/indonesian_affairs.json.gz": {
+      "sha256": "6c7f6d5288fa270c8babee5e7c2ad93c7a28b681e2be1e0c16fafcc8c8d03fdb",
+      "bytes": 348391
+    },
+    "translations/malay_basumayyah.json.gz": {
+      "sha256": "347b66ae97674a357740522920f76bbe7367894ae79330a9da0d6293f136fcc5",
+      "bytes": 393260
+    },
+    "translations/persian_ih.json.gz": {
+      "sha256": "03bcccd8bf50e9d67d5f16c162c7e240866d2720274b2f4e9e666c6d2b615a64",
+      "bytes": 393755
+    },
+    "translations/russian_rwwad.json.gz": {
+      "sha256": "b8f56ab3dd2fc0ab0ad4d69517f20b12cf48a004b3a4f8eb3f5e65d4c29b30d0",
+      "bytes": 337286
+    },
+    "translations/spanish_montada_eu.json.gz": {
+      "sha256": "b3e2801524bd93759db9758d8241da67d3254d706a6203b40eb5c9bee0682508",
+      "bytes": 449824
+    },
+    "translations/turkish_rwwad.json.gz": {
+      "sha256": "4dda03c9f313e1b8dd7f1f99a1e7184c1eb23109f0e34e694b7ca952184ad36c",
+      "bytes": 296432
+    },
+    "translations/urdu_junagarhi.json.gz": {
+      "sha256": "17667b30c3ced9299bc6a5d96128afce02bb98cdceb31b8ea8caab16dc40a7a3",
+      "bytes": 1519830
+    },
+    "translations/manifest.json": {
+      "sha256": "e6986f720fd26ba78b5c1024cd676ebeffdb05752387aef099d64d4474b23a4c",
+      "bytes": 22675
+    }
+  }
+}

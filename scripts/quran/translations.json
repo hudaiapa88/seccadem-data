@@ -1,0 +1,21 @@
+{
+  "_comment": "QuranEnc translations shipped by Seccadem. 'fallback' holds title/version for keys missing from /api/v1/translations/list (taken from old.quranenc.com, see check_quranenc_versions.py). enabled=false keeps a key out of the manifest until QuranEnc confirms it.",
+  "translations": [
+    {"key": "turkish_rwwad", "lang": "tr", "default": true, "bundled": true, "enabled": true, "rightsTier": "rwwad", "translator": "Rowwad Translation Center", "publisher": "Rowwad Translation Center"},
+    {"key": "english_rwwad", "lang": "en", "default": true, "enabled": true, "rightsTier": "rwwad", "translator": "Rowwad Translation Center", "publisher": "Rowwad Translation Center"},
+    {"key": "german_rwwad", "lang": "de", "default": true, "enabled": true, "rightsTier": "rwwad", "translator": "Rowwad Translation Center", "publisher": "Rowwad Translation Center"},
+    {"key": "french_montada", "lang": "fr", "default": true, "enabled": true, "rightsTier": "partner", "translator": "Dr. Nabil Rudwan", "publisher": "Noor International Center"},
+    {"key": "spanish_montada_eu", "lang": "es", "default": true, "enabled": true, "rightsTier": "partner", "translator": "Noor International Center", "publisher": "Noor International Center"},
+    {"key": "russian_rwwad", "lang": "ru", "default": true, "enabled": true, "rightsTier": "rwwad", "translator": "Rowwad Translation Center", "publisher": "Rowwad Translation Center",
+      "fallback": {"title": "Russian Translation - Rowwad Translation Center", "description": "Translated by Rowwad Translation Center, in cooperation with the Islamic Propagation Office in Rabwah and the Association for Serving Islamic Content in Languages.", "version": "1.0.1", "last_update": "2026-03-29", "versionSource": "old.quranenc.com/en/home"}},
+    {"key": "bengali_zakaria", "lang": "bn", "default": true, "enabled": true, "rightsTier": "third_party", "translator": "Dr. Abu Bakr Muhammad Zakaria", "publisher": "King Fahd Glorious Qur'an Printing Complex",
+      "fallback": {"title": "Bengali translation - Abu Bakr Zakaria", "description": "Bengali translation of Dr. Abu Bakr Muhammad Zakaria", "version": "1.1.1", "last_update": "2021-05-22", "versionSource": "old.quranenc.com/en/home"}},
+    {"key": "persian_ih", "lang": "fa", "default": true, "enabled": true, "rightsTier": "rwwad", "translator": "Rowwad Translation Center", "publisher": "Rowwad Translation Center"},
+    {"key": "urdu_junagarhi", "lang": "ur", "default": true, "enabled": true, "rightsTier": "third_party", "translator": "Muhammad Ibrahim Junagarhi", "publisher": "Rowwad Translation Center (supervision)"},
+    {"key": "indonesian_affairs", "lang": "id", "default": true, "enabled": true, "rightsTier": "third_party", "translator": "Indonesian Ministry of Religious Affairs", "publisher": "Indonesian Ministry of Religious Affairs"},
+    {"key": "malay_basumayyah", "lang": "ms", "default": true, "enabled": true, "rightsTier": "third_party", "translator": "Abdullah Basumayyah", "publisher": "QuranEnc.com",
+      "fallback": {"title": "Malay Translation - Abdullah Basumayyah", "description": "Translated by Abdullah Basumayyah", "version": "1.0.0", "last_update": "2021-01-27", "versionSource": "old.quranenc.com/en/home"}},
+    {"key": "hindi_omari", "lang": "hi", "default": true, "enabled": true, "rightsTier": "third_party", "translator": "Azizul Haq Al-Omari", "publisher": "QuranEnc.com"},
+    {"key": "dutch_center", "lang": "nl", "default": true, "enabled": true, "rightsTier": "rwwad", "translator": "Dutch Islamic Center", "publisher": "Dutch Islamic Center / Rowwad Translation Center"}
+  ]
+}

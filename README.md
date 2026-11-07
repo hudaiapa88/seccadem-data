@@ -53,6 +53,25 @@ See [`schema.json`](schema.json) for the full JSON schema.
 | JAKIM (e-solat.gov.my) | MY | Official Malaysian source |
 | Kemenag (api.myquran.com) | ID | Official Indonesian source |
 
+## Qur'an data
+
+`quran/v1/` holds the Arabic text (Tanzil Uthmani + Simple Clean v1.1, CC BY 3.0,
+verbatim), `quran_meta.json` (Tanzil metadata + QuranEnc surah names) and
+`translations/` (13 QuranEnc translations, one per app language, with
+`manifest.json`). `checksums.json` locks every file (SHA-256).
+
+- Build: `python scripts/quran/build_tanzil.py`, `python scripts/quran/fetch_quranenc.py [--only KEY]`
+- Verify: `python scripts/quran/verify_quran.py` (`--write` after an update)
+- Version check: `python scripts/quran/check_quranenc_versions.py` (monthly workflow)
+- The app downloads translations from jsDelivr (`@quran-v1` tag) and checks
+  SHA-256 against its bundled copy of `manifest.json`.
+
+## Adhan audio
+
+`audio/adhan/*.mp3`: three recordings from Wikimedia Commons (Istanbul CC0 1.0;
+Konya and Malmö CC BY 3.0), converted to mono MP3. Sources, authors and the
+changes made are listed in [`audio/adhan/LICENSE.md`](audio/adhan/LICENSE.md).
+
 ## Languages Covered
 
 This data covers Islamic countries that speak the 14 languages supported by the Seccadem app:

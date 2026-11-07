@@ -1,0 +1,51 @@
+name: QuranEnc version check
+
+# QuranEnc term 6: translations must follow the latest published version.
+# Monthly: compare quran/v1/translations/manifest.json with QuranEnc, verify the
+# SHA-256 lock, and open an issue when a translation has a new version.
+# Updating is manual (fetch_quranenc.py → verify_quran.py --write → new tag).
+
+on:
+  schedule:
+    - cron: '0 6 2 * *'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Verify checksum lock
+        run: python scripts/quran/verify_quran.py
+
+      - name: Compare versions with QuranEnc
+        id: check
+        run: |
+          set +e
+          python scripts/quran/check_quranenc_versions.py --report report.md
+          code=$?
+          echo "code=$code" >> "$GITHUB_OUTPUT"
+          if [ "$code" = "1" ]; then exit 1; fi
+          exit 0
+
+      - name: Open issue for outdated translations
+        if: steps.check.outputs.code == '2'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          title="QuranEnc: translation update available ($(date +'%Y-%m'))"
+          if gh issue list --state open --search "$title in:title" --json number --jq 'length' | grep -q '^0$'; then
+            gh issue create --title "$title" --body-file report.md
+          else
+            echo "Issue already open"
+          fi
