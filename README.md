@@ -69,8 +69,10 @@ verbatim), `quran_meta.json` (Tanzil metadata + QuranEnc surah names) and
 ## Adhan audio
 
 `audio/adhan/*.mp3`: three recordings from Wikimedia Commons (Istanbul CC0 1.0;
-Konya and Malmö CC BY 3.0), converted to mono MP3. Sources, authors and the
-changes made are listed in [`audio/adhan/LICENSE.md`](audio/adhan/LICENSE.md).
+Konya and Malmö CC BY 3.0), converted to mono MP3, and 14 recordings published
+by the performers or the mosque foundation on YouTube under CC BY 3.0 (files
+`01_…` to `14_…`, MP3 192 kbps). Sources, performers and the changes made are
+listed in [`audio/adhan/LICENSE.md`](audio/adhan/LICENSE.md).
 
 ## Languages Covered
 
